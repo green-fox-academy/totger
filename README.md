@@ -1,2 +1,2 @@
 # totger
-assignment
+https://github.com/greenfox-academy/alpaga-syllabus
