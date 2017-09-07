@@ -1,0 +1,19 @@
+* {
+    max-width: 250px;
+}
+.asteroid.big {
+    color: blue;
+}
+
+#b325,
+.b326 {
+    border: 1px solid green;
+}
+
+p {
+    background: yellow;
+}
+
+div {
+    font-weight: bold;
+}
