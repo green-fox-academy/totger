@@ -1,0 +1,28 @@
+h1 {
+    color: #ff6347
+}
+
+h2 {
+    color: #962be2;
+}
+
+article {
+    max-width: 50%;
+}
+
+ul {
+    list-style: square;
+}
+
+ol {
+    list-style: upper-roman;
+}
+
+ol li {
+    color: #ff80ff;
+    text-decoration: underline;
+}
+
+ol li:last-child {
+    color: #000;
+}
