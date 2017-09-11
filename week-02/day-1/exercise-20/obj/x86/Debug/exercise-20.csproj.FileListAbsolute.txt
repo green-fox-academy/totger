@@ -1,0 +1,5 @@
+/Users/gergo/Documents/GreenFox/totger/week-02/day-1/exercise-20/bin/Debug/exercise-20.exe
+/Users/gergo/Documents/GreenFox/totger/week-02/day-1/exercise-20/bin/Debug/exercise-20.pdb
+/Users/gergo/Documents/GreenFox/totger/week-02/day-1/exercise-20/obj/x86/Debug/exercise-20.csproj.CoreCompileInputs.cache
+/Users/gergo/Documents/GreenFox/totger/week-02/day-1/exercise-20/obj/x86/Debug/exercise-20.exe
+/Users/gergo/Documents/GreenFox/totger/week-02/day-1/exercise-20/obj/x86/Debug/exercise-20.pdb
