@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+  </head>
+  <body>
+    <div id="frame">
+      <div id="header">profil</div>
+      <form action="" method="post">
+      <div id="left-panel">
+        <div class="szurke"> Személyes adatok</div>
+          <label for="name">Név <abbr title="required">*</abbr></label>
+          <input id="name" type="text" name="user_name">
+          <div id="bal">
+            <label for="dob">Születési éved: <abbr title="required">*</abbr></label>
+            <input id="dob" type="text" name="date_of_birth">
+          </div>
+          <div id="jobb">
+            <legend>Nemed</legend>
+            <input type="radio" id="sex1" name="sex" value="female">
+            <label for="sex1">Nő</label>
+            <input type="radio" id="sex2" name="sex" value="male">
+            <label for="sex2">Férfi</label>
+          </div>
+          <fieldset>
+            <legend>Milyen márkákat szeretsz?</legend>
+            <table>
+              <tr>
+                <td>
+                  <input type="checkbox" id="adi" name="adidas">
+                  <label for="adi">Adidas</label>
+                </td>
+                <td>
+                  <input type="checkbox" id="opel" name="opel">
+                  <label for="adi">Opel</label>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <input type="checkbox" id="apple" name="apple">
+                  <label for="apple">Apple</label>
+                </td>
+                <td>
+                  <input type="checkbox" id="ray" name="ray-ban">
+                  <label for="adi">Ray-Ban</label>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <input type="checkbox" id="coca" name="cocacola">
+                  <label for="coca">Coca-Cola</label>
+                </td>
+                <td>
+                  <input type="checkbox" id="star" name="starbucks">
+                  <label for="star">Starbucks</label>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <input type="checkbox" id="mayda" name="mazda">
+                  <label for="mazda">Mazda</label>
+                </td>
+                <td>
+                  <input type="checkbox" id="tesla" name="tesla">
+                  <label for="tesla">Tesla</label>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <input type="checkbox" id="nike" name="nike">
+                  <label for="nike">Nike</label>
+                </td>
+                <td>
+                  <input type="checkbox" id="yahoo" name="yahoo">
+                  <label for="yahoo">Yahoo</label>
+                </td>
+              </tr>
+            </table>
+            <div>Többet is választhatsz!</div>
+            </fieldset>           
+      </div>
+      <div id="right-panel">
+        <div class="szurke">Kapcsolat</div>
+          <label for="tel">Telefon <abbr title="required">*</abbr></label>
+          <input id="tel" type="text" name="telefon">
+          <label for="email">E-mail <abbr title="required">*</abbr></label>
+          <input id="email" type="text" name="email">
+          <label for="facebook">Facebook </label>
+          <input id="facebook" type="text" name="facebook">
+          <label for="twitter">Twitter </label>
+          <input id="twitter" type="text" name="twitter">
+        
+      </div>
+      <div id=lent>
+          <label for="intro">Bemutatkozás: <abbr title="required">*</abbr></label>
+          <textarea id="intro" name="introduction">Írj magadról néhány szót…</textarea>
+        </div>
+      </form>
+    </div>
+  
+  </body>
+</html>
+
