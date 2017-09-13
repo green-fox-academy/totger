@@ -20,18 +20,20 @@ namespace GreenFox
 			Console.WriteLine("Enter a number:");
 
             int row = Convert.ToInt32(Console.ReadLine());
-			for (int i = 1; i <= row; i++)
-			{
-				for (int j = i; j <= row; j++)
-				{
-					Console.Write(" ");
-				}
-				for (int k = 1; k <= i; k++)
-				{
-					Console.Write("* ");
-				}
-				Console.WriteLine();
-			}
+
+            for (int i = 0; i <= row; i++)
+            {
+                for (int spaceNum = i; spaceNum < row; spaceNum++)
+                {
+                    Console.Write(" ");
+
+                }
+                for (int starNum = 1; starNum < i * 2 - 1; starNum++)
+                {
+                    Console.Write("*");
+                }
+                Console.WriteLine();
+            }
         }
     }
 }
