@@ -1,0 +1,5 @@
+/Users/gergo/Documents/GreenFox/totger/exercise-3/bin/Debug/exercise-3.exe
+/Users/gergo/Documents/GreenFox/totger/exercise-3/bin/Debug/exercise-3.pdb
+/Users/gergo/Documents/GreenFox/totger/exercise-3/obj/x86/Debug/exercise-3.csproj.CoreCompileInputs.cache
+/Users/gergo/Documents/GreenFox/totger/exercise-3/obj/x86/Debug/exercise-3.exe
+/Users/gergo/Documents/GreenFox/totger/exercise-3/obj/x86/Debug/exercise-3.pdb
