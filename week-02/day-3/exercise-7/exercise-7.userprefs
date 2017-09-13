@@ -1,10 +1,13 @@
-﻿<Properties StartupConfiguration="{6BC0666B-6A09-4C5E-BFA0-BD3E2B2E9321}|Default">
-  <MonoDevelop.Ide.Workbench>
+﻿<Properties StartupConfiguration="{A1E0CF2C-A1A3-4C1D-B3D6-97E7D144BB32}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="Program.cs" Line="20" Column="2" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="exercise-6" expanded="True">
-            <Node name="exercise-6" expanded="True">
+          <Node name="exercise-7" expanded="True">
+            <Node name="exercise-7" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -13,7 +16,7 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
-  <MonoDevelop.Ide.ItemProperties.exercise-6 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.exercise-7 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
