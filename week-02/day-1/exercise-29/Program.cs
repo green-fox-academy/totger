@@ -21,7 +21,7 @@ namespace GreenFox
 
             int row = Convert.ToInt32(Console.ReadLine());
 
-            for (int i = 1; i <= row; i++)
+            for (int i = 0; i <= row; i++)
             {
                 for (int spaceNum = i; spaceNum < row; spaceNum++)
                 {

@@ -17,7 +17,11 @@ namespace Matchmaking
             for (int i = 0; i < girls.Count; i++)
             {
                 order.Add(girls[i]);
-                order.Add(boys[i]);
+                //order.Add(boys[i]);
+                for (int j = 0; j < boys.Count; j++)
+                {
+                    order.Add(boys[j]);
+                }
             }
 
 
