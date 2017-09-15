@@ -1,0 +1,5 @@
+/Users/gergo/Documents/GreenFox/totger/week-02/day-5/JosephusProblem/bin/Debug/JosephusProblem.exe
+/Users/gergo/Documents/GreenFox/totger/week-02/day-5/JosephusProblem/bin/Debug/JosephusProblem.pdb
+/Users/gergo/Documents/GreenFox/totger/week-02/day-5/JosephusProblem/obj/x86/Debug/JosephusProblem.csproj.CoreCompileInputs.cache
+/Users/gergo/Documents/GreenFox/totger/week-02/day-5/JosephusProblem/obj/x86/Debug/JosephusProblem.exe
+/Users/gergo/Documents/GreenFox/totger/week-02/day-5/JosephusProblem/obj/x86/Debug/JosephusProblem.pdb
