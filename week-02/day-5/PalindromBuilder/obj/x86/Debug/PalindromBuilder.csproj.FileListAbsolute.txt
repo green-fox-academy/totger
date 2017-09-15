@@ -1,0 +1,5 @@
+/Users/gergo/Documents/GreenFox/totger/week-02/day-5/PalindromBuilder/bin/Debug/PalindromBuilder.exe
+/Users/gergo/Documents/GreenFox/totger/week-02/day-5/PalindromBuilder/bin/Debug/PalindromBuilder.pdb
+/Users/gergo/Documents/GreenFox/totger/week-02/day-5/PalindromBuilder/obj/x86/Debug/PalindromBuilder.csproj.CoreCompileInputs.cache
+/Users/gergo/Documents/GreenFox/totger/week-02/day-5/PalindromBuilder/obj/x86/Debug/PalindromBuilder.exe
+/Users/gergo/Documents/GreenFox/totger/week-02/day-5/PalindromBuilder/obj/x86/Debug/PalindromBuilder.pdb

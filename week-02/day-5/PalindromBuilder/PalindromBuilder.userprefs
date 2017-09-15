@@ -1,13 +1,14 @@
-﻿<Properties StartupConfiguration="{948D6E60-B687-4DC0-BFAB-CE139B1BD47C}|Default">
+﻿<Properties StartupConfiguration="{006D9BCD-8949-493D-8DE4-9F029A3678C9}|Default">
+  <MonoDevelop.Ide.ItemProperties.PalindromBuilder PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
     <Files>
-      <File FileName="Program.cs" Line="18" Column="14" />
+      <File FileName="Program.cs" Line="27" Column="40" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="anagram" expanded="True" selected="True">
-            <Node name="anagram" expanded="True" />
+          <Node name="PalindromBuilder" expanded="True" selected="True">
+            <Node name="PalindromBuilder" expanded="True" />
           </Node>
         </State>
       </Pad>
@@ -19,5 +20,4 @@
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.anagram PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
