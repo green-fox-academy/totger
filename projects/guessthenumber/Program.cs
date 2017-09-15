@@ -28,20 +28,20 @@ namespace guessthenumber
                 while (!won)
 				{
 					int guess = GetUserGuess(lives);
-                    won = Evaluate(guess, storedNumber);
+                    won = Evaluate(guess, storedNumber, lives);
                     if (!won)
                         lives--;
                     if (lives == 0)
                         break;
 				}
                 Results(lives, storedNumber);
-                newGame = RestartGame(newGame);
+                newGame = RestartGame();
             } while (newGame);
 
         }
 
 
-        private static bool RestartGame(bool newGame)
+        private static bool RestartGame()
         {
 
             Console.Write("Do you want to play again? \n(Yes) - (No) " +
@@ -68,8 +68,10 @@ namespace guessthenumber
                                   "\nMy number was: {0}", storedNumber);
 		}
 
-        private static bool Evaluate(int guess, int number)
+        private static bool Evaluate(int guess, int number, int lives)
         {
+            if (guess != number && lives == 1)
+                return false;
             if (guess > number)
             {
                 Console.WriteLine("My number is lower!");
@@ -120,8 +122,9 @@ namespace guessthenumber
 		private static int ChooseDifficutly()
         {
             Console.WriteLine("\nPlease choose difficutly:");
-            Console.WriteLine("1 - Easy: 1 - 100 \n2 - Medium: 1 - 500" +
-                          "\n3 - Hard: 1 - 1000");
+            Console.WriteLine("1 - Easy: from 1 to 100 \n2 - Medium: from 1 to 500" +
+                          "\n3 - Hard: from 1 to 1000");
+            Console.Write("Type 1, 2 or 3 and press ENTER:");
             int level = Convert.ToInt32(Console.ReadLine());
             return level;
 
