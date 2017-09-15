@@ -6,21 +6,21 @@ namespace anagram
     {
         public static void Main(string[] args)
         {
-
-            string word1 = GetWord();
-            string word2 = GetWord();
-            char[] firstWord = WordToArray(word1);
-            char[] secondWord = WordToArray(word2);
-            //bool result = ;
+            char[] firstWord = WordToArray();
+            char[] secondWord = WordToArray();
             if (Evaluate(firstWord, secondWord))
+            {
                 Console.WriteLine("Cool, they are anagrams!");
+            }
             else
+            {
                 Console.WriteLine("So bad, they are not anagrams!");
+            }
         }
 
-            public static char[] WordToArray(string word)
+        public static char[] WordToArray()
         {
-            int length = word.Length;
+            string word = GetWord();
             char[] characters = word.ToCharArray();
             return characters;
         }
