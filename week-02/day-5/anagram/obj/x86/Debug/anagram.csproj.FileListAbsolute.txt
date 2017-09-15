@@ -1,0 +1,5 @@
+/Users/gergo/Documents/GreenFox/totger/week-02/day-5/anagram/bin/Debug/anagram.exe
+/Users/gergo/Documents/GreenFox/totger/week-02/day-5/anagram/bin/Debug/anagram.pdb
+/Users/gergo/Documents/GreenFox/totger/week-02/day-5/anagram/obj/x86/Debug/anagram.csproj.CoreCompileInputs.cache
+/Users/gergo/Documents/GreenFox/totger/week-02/day-5/anagram/obj/x86/Debug/anagram.exe
+/Users/gergo/Documents/GreenFox/totger/week-02/day-5/anagram/obj/x86/Debug/anagram.pdb
