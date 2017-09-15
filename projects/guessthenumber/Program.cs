@@ -7,7 +7,7 @@ namespace guessthenumber
         public static void Main(string[] args)
         {
             
-            Console.WriteLine("--*** Welcome to Guess The Number ***-- ");
+            Console.WriteLine("--=*** Welcome to Guess The Number ***=-- ");
 
             bool newGame = false;
 
@@ -15,7 +15,6 @@ namespace guessthenumber
             {
 				bool won = false;
 				
-				int counter = 0;
 				int level;
 				int storedNumber = 0;
 
@@ -25,22 +24,28 @@ namespace guessthenumber
 					storedNumber = GetNumber(level);
 				}
 
-				while (!won)
+				int lives = SetLives();
+                while (!won)
 				{
-					int guess = GetUserGuess();
-					won = Evaluate(guess, storedNumber);
-					counter++;
+					int guess = GetUserGuess(lives);
+                    won = Evaluate(guess, storedNumber);
+                    if (!won)
+                        lives--;
+                    if (lives == 0)
+                        break;
 				}
-				Console.WriteLine("Congratulations, You won in {0} tries!", counter);
+                Results(lives, storedNumber);
                 newGame = RestartGame(newGame);
             } while (newGame);
 
-
         }
+
 
         private static bool RestartGame(bool newGame)
         {
-            Console.Write("Do you want to play again? \n(Yes) - (No) \nType here:");
+
+            Console.Write("Do you want to play again? \n(Yes) - (No) " +
+                          "\nType here:");
 			string answer = Console.ReadLine();
 			answer = answer.ToUpper();
 			if (answer == "YES")
@@ -48,11 +53,26 @@ namespace guessthenumber
 			return false;				
         }
 
+		private static void Results(int lives, int storedNumber)
+		{
+
+            if (lives == 1)
+                Console.WriteLine("Congratulations, You won and " +
+                                      "have {0} life left!", lives);
+            else if (lives > 0)    
+                Console.WriteLine("Congratulations, You won and " +
+                                  "have {0} lives left!", lives);
+            
+			else
+                Console.WriteLine("** BAMMM, you are dead :( **" +
+                                  "\nMy number was: {0}", storedNumber);
+		}
+
         private static bool Evaluate(int guess, int number)
         {
             if (guess > number)
             {
-                Console.WriteLine("My number is lower");
+                Console.WriteLine("My number is lower!");
                 return false;
             }
             if (guess < number)
@@ -64,9 +84,9 @@ namespace guessthenumber
                 
         }
 
-        private static int GetUserGuess()
+        private static int GetUserGuess(int lives)
         {
-            Console.WriteLine("What's your guess?");
+            Console.WriteLine("\nWhat's your guess? -- {0} lives left", lives);
             int guess = Convert.ToInt32(Console.ReadLine());
             return guess;
         }
@@ -90,9 +110,16 @@ namespace guessthenumber
             }
 		}
 
-        private static int ChooseDifficutly()
+		private static int SetLives()
+		{
+            Console.WriteLine("\nHow many lives do you give to yourself?");
+            int lives = Convert.ToInt32(Console.ReadLine());
+            return lives;
+		}
+
+		private static int ChooseDifficutly()
         {
-            Console.WriteLine("Please choose difficutly:");
+            Console.WriteLine("\nPlease choose difficutly:");
             Console.WriteLine("1 - Easy: 1 - 100 \n2 - Medium: 1 - 500" +
                           "\n3 - Hard: 1 - 1000");
             int level = Convert.ToInt32(Console.ReadLine());

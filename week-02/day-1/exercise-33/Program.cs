@@ -26,7 +26,7 @@ namespace GreenFox
 
         private static int GenerateNumber()
         {
-            return new Random().Next(0,10);
+            return new Random().Next(0,100);
         }
 
         private static bool HigherOrLower(int random)

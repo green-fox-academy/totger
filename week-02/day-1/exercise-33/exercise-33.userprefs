@@ -1,5 +1,8 @@
 ﻿<Properties StartupConfiguration="{AA50DDB5-A548-4983-A353-AD9B9044FD1E}|Default">
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="Program.cs" Line="28" Column="10" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
