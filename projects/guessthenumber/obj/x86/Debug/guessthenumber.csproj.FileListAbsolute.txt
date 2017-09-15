@@ -1,0 +1,5 @@
+/Users/gergo/Documents/GreenFox/totger/projects/guessthenumber/obj/x86/Debug/guessthenumber.csproj.CoreCompileInputs.cache
+/Users/gergo/Documents/GreenFox/totger/projects/guessthenumber/bin/Debug/guessthenumber.exe
+/Users/gergo/Documents/GreenFox/totger/projects/guessthenumber/bin/Debug/guessthenumber.pdb
+/Users/gergo/Documents/GreenFox/totger/projects/guessthenumber/obj/x86/Debug/guessthenumber.exe
+/Users/gergo/Documents/GreenFox/totger/projects/guessthenumber/obj/x86/Debug/guessthenumber.pdb
