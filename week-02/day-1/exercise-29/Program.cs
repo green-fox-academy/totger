@@ -21,12 +21,11 @@ namespace GreenFox
 
             int row = Convert.ToInt32(Console.ReadLine());
 
-            for (int i = 0; i <= row; i++)
+            for (int i = 0; i < row; i++)
             {
                 for (int spaceNum = i; spaceNum < row; spaceNum++)
                 {
                     Console.Write(" ");
-
                 }
                 for (int starNum = 0; starNum <= i * 2; starNum++)
                 {
@@ -34,6 +33,7 @@ namespace GreenFox
                 }
                 Console.WriteLine();
             }
+            Console.WriteLine("Number of stars: {0}", row * row);
         }
     }
 }

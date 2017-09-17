@@ -1,17 +1,8 @@
 ﻿<Properties StartupConfiguration="{A416B967-1D03-4435-B913-481898B2802E}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
     <Files>
-      <File FileName="Program.cs" Line="19" Column="1" />
+      <File FileName="Program.cs" Line="18" Column="9" />
     </Files>
-    <Pads>
-      <Pad Id="ProjectPad">
-        <State name="__root__">
-          <Node name="JosephusProblem" expanded="True" selected="True">
-            <Node name="JosephusProblem" expanded="True" />
-          </Node>
-        </State>
-      </Pad>
-    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

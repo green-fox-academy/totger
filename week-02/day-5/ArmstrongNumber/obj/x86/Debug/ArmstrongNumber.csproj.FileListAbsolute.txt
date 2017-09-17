@@ -1,0 +1,5 @@
+/Users/gergo/Documents/GreenFox/totger/week-02/day-5/ArmstrongNumber/obj/x86/Debug/ArmstrongNumber.csproj.CoreCompileInputs.cache
+/Users/gergo/Documents/GreenFox/totger/week-02/day-5/ArmstrongNumber/bin/Debug/ArmstrongNumber.exe
+/Users/gergo/Documents/GreenFox/totger/week-02/day-5/ArmstrongNumber/bin/Debug/ArmstrongNumber.pdb
+/Users/gergo/Documents/GreenFox/totger/week-02/day-5/ArmstrongNumber/obj/x86/Debug/ArmstrongNumber.exe
+/Users/gergo/Documents/GreenFox/totger/week-02/day-5/ArmstrongNumber/obj/x86/Debug/ArmstrongNumber.pdb
