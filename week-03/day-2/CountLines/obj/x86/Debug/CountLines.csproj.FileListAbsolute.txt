@@ -1,0 +1,5 @@
+/Users/gergo/Documents/GreenFox/totger/week-03/day-2/CountLines/bin/Debug/CountLines.exe
+/Users/gergo/Documents/GreenFox/totger/week-03/day-2/CountLines/bin/Debug/CountLines.pdb
+/Users/gergo/Documents/GreenFox/totger/week-03/day-2/CountLines/obj/x86/Debug/CountLines.csproj.CoreCompileInputs.cache
+/Users/gergo/Documents/GreenFox/totger/week-03/day-2/CountLines/obj/x86/Debug/CountLines.exe
+/Users/gergo/Documents/GreenFox/totger/week-03/day-2/CountLines/obj/x86/Debug/CountLines.pdb
