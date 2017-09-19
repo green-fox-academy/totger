@@ -1,0 +1,5 @@
+/Users/gergo/Documents/GreenFox/totger/week-03/day-2/CopyFile/bin/Debug/CopyFile.exe
+/Users/gergo/Documents/GreenFox/totger/week-03/day-2/CopyFile/bin/Debug/CopyFile.pdb
+/Users/gergo/Documents/GreenFox/totger/week-03/day-2/CopyFile/obj/x86/Debug/CopyFile.csproj.CoreCompileInputs.cache
+/Users/gergo/Documents/GreenFox/totger/week-03/day-2/CopyFile/obj/x86/Debug/CopyFile.exe
+/Users/gergo/Documents/GreenFox/totger/week-03/day-2/CopyFile/obj/x86/Debug/CopyFile.pdb
