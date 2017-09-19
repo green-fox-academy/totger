@@ -1,0 +1,5 @@
+/Users/gergo/Documents/GreenFox/totger/week-03/day-2/PrintEachLine/bin/Debug/PrintEachLine.exe
+/Users/gergo/Documents/GreenFox/totger/week-03/day-2/PrintEachLine/bin/Debug/PrintEachLine.pdb
+/Users/gergo/Documents/GreenFox/totger/week-03/day-2/PrintEachLine/obj/x86/Debug/PrintEachLine.csproj.CoreCompileInputs.cache
+/Users/gergo/Documents/GreenFox/totger/week-03/day-2/PrintEachLine/obj/x86/Debug/PrintEachLine.exe
+/Users/gergo/Documents/GreenFox/totger/week-03/day-2/PrintEachLine/obj/x86/Debug/PrintEachLine.pdb
