@@ -1,0 +1,5 @@
+/Users/gergo/Documents/GreenFox/totger/week-03/day-2/WriteSingleLine/bin/Debug/WriteSingleLine.exe
+/Users/gergo/Documents/GreenFox/totger/week-03/day-2/WriteSingleLine/bin/Debug/WriteSingleLine.pdb
+/Users/gergo/Documents/GreenFox/totger/week-03/day-2/WriteSingleLine/obj/x86/Debug/WriteSingleLine.csproj.CoreCompileInputs.cache
+/Users/gergo/Documents/GreenFox/totger/week-03/day-2/WriteSingleLine/obj/x86/Debug/WriteSingleLine.exe
+/Users/gergo/Documents/GreenFox/totger/week-03/day-2/WriteSingleLine/obj/x86/Debug/WriteSingleLine.pdb

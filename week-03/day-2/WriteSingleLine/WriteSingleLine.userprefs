@@ -1,7 +1,7 @@
-﻿<Properties StartupConfiguration="{F569F451-6125-436B-80CE-F1B6C760A171}|Default">
+﻿<Properties StartupConfiguration="{3897F90B-EB02-45C1-B135-FF8EE94A71EA}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
     <Files>
-      <File FileName="Program.cs" Line="29" Column="10" />
+      <File FileName="Program.cs" Line="14" Column="31" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
@@ -9,6 +9,6 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.CountLines PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.WriteSingleLine PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
