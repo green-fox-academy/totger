@@ -15,21 +15,21 @@ namespace DivideByZero
         public static void Divider()
         {
             Console.WriteLine("Type in the number that you want to divide 10 with");
-            int input = int.Parse(Console.ReadLine());
+
             try
             {
+                int input = int.Parse(Console.ReadLine());
                 Console.WriteLine(10 / input);
             }
 
-            catch (SystemException)
+            catch (DivideByZeroException)
+			{
+				Console.WriteLine("Are you really trying to divide by zero, mate?");
+			}
+            catch (FormatException)
 			{
 				Console.WriteLine("wtf?");
 			}
-			//catch (DivideByZeroException)
-            //{
-            //    Console.WriteLine("Are you really trying to divide by zero, mate?");
-            //}
-
         }
     }
 }
