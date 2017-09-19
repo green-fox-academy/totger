@@ -1,0 +1,5 @@
+/Users/gergo/Documents/GreenFox/totger/week-03/day-2/WriteMultipleLines/obj/x86/Debug/WriteMultipleLines.csproj.CoreCompileInputs.cache
+/Users/gergo/Documents/GreenFox/totger/week-03/day-2/WriteMultipleLines/bin/Debug/WriteMultipleLines.exe
+/Users/gergo/Documents/GreenFox/totger/week-03/day-2/WriteMultipleLines/bin/Debug/WriteMultipleLines.pdb
+/Users/gergo/Documents/GreenFox/totger/week-03/day-2/WriteMultipleLines/obj/x86/Debug/WriteMultipleLines.exe
+/Users/gergo/Documents/GreenFox/totger/week-03/day-2/WriteMultipleLines/obj/x86/Debug/WriteMultipleLines.pdb
