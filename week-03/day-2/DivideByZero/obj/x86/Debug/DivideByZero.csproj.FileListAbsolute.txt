@@ -1,0 +1,5 @@
+/Users/gergo/Documents/GreenFox/totger/week-03/day-2/DivideByZero/bin/Debug/DivideByZero.exe
+/Users/gergo/Documents/GreenFox/totger/week-03/day-2/DivideByZero/bin/Debug/DivideByZero.pdb
+/Users/gergo/Documents/GreenFox/totger/week-03/day-2/DivideByZero/obj/x86/Debug/DivideByZero.csproj.CoreCompileInputs.cache
+/Users/gergo/Documents/GreenFox/totger/week-03/day-2/DivideByZero/obj/x86/Debug/DivideByZero.exe
+/Users/gergo/Documents/GreenFox/totger/week-03/day-2/DivideByZero/obj/x86/Debug/DivideByZero.pdb
