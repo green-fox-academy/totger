@@ -1,0 +1,10 @@
+C:\Users\Gergő\codes\totger\week-03\day-4\Power\Power\bin\Debug\netcoreapp1.1\Power.deps.json
+C:\Users\Gergő\codes\totger\week-03\day-4\Power\Power\bin\Debug\netcoreapp1.1\Power.runtimeconfig.json
+C:\Users\Gergő\codes\totger\week-03\day-4\Power\Power\bin\Debug\netcoreapp1.1\Power.runtimeconfig.dev.json
+C:\Users\Gergő\codes\totger\week-03\day-4\Power\Power\bin\Debug\netcoreapp1.1\Power.dll
+C:\Users\Gergő\codes\totger\week-03\day-4\Power\Power\bin\Debug\netcoreapp1.1\Power.pdb
+C:\Users\Gergő\codes\totger\week-03\day-4\Power\Power\obj\Debug\netcoreapp1.1\Power.csproj.CoreCompileInputs.cache
+C:\Users\Gergő\codes\totger\week-03\day-4\Power\Power\obj\Debug\netcoreapp1.1\Power.AssemblyInfo.cs
+C:\Users\Gergő\codes\totger\week-03\day-4\Power\Power\obj\Debug\netcoreapp1.1\Power.dll
+C:\Users\Gergő\codes\totger\week-03\day-4\Power\Power\obj\Debug\netcoreapp1.1\Power.pdb
+C:\Users\Gergő\codes\totger\week-03\day-4\Power\Power\obj\Debug\netcoreapp1.1\Power.csprojResolveAssemblyReference.cache
