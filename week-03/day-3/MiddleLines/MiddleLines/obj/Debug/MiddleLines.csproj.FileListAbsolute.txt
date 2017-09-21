@@ -1,0 +1,15 @@
+C:\Users\Gergő\codes\MiddleLines\MiddleLines\bin\Debug\MiddleLines.exe.config
+C:\Users\Gergő\codes\MiddleLines\MiddleLines\bin\Debug\MiddleLines.exe
+C:\Users\Gergő\codes\MiddleLines\MiddleLines\bin\Debug\MiddleLines.pdb
+C:\Users\Gergő\codes\MiddleLines\MiddleLines\obj\Debug\MiddleLines.csprojResolveAssemblyReference.cache
+C:\Users\Gergő\codes\MiddleLines\MiddleLines\obj\Debug\MainWindow.g.cs
+C:\Users\Gergő\codes\MiddleLines\MiddleLines\obj\Debug\App.g.cs
+C:\Users\Gergő\codes\MiddleLines\MiddleLines\obj\Debug\MiddleLines_MarkupCompile.cache
+C:\Users\Gergő\codes\MiddleLines\MiddleLines\obj\Debug\MiddleLines_MarkupCompile.lref
+C:\Users\Gergő\codes\MiddleLines\MiddleLines\obj\Debug\MainWindow.baml
+C:\Users\Gergő\codes\MiddleLines\MiddleLines\obj\Debug\MiddleLines.g.resources
+C:\Users\Gergő\codes\MiddleLines\MiddleLines\obj\Debug\MiddleLines.Properties.Resources.resources
+C:\Users\Gergő\codes\MiddleLines\MiddleLines\obj\Debug\MiddleLines.csproj.GenerateResource.Cache
+C:\Users\Gergő\codes\MiddleLines\MiddleLines\obj\Debug\MiddleLines.csproj.CoreCompileInputs.cache
+C:\Users\Gergő\codes\MiddleLines\MiddleLines\obj\Debug\MiddleLines.exe
+C:\Users\Gergő\codes\MiddleLines\MiddleLines\obj\Debug\MiddleLines.pdb

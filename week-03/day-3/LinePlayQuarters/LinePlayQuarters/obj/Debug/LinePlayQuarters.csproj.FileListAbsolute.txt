@@ -1,0 +1,14 @@
+C:\Users\Gergő\codes\LinePlayQuarters\LinePlayQuarters\obj\Debug\MainWindow.g.cs
+C:\Users\Gergő\codes\LinePlayQuarters\LinePlayQuarters\obj\Debug\App.g.cs
+C:\Users\Gergő\codes\LinePlayQuarters\LinePlayQuarters\obj\Debug\LinePlayQuarters_MarkupCompile.cache
+C:\Users\Gergő\codes\LinePlayQuarters\LinePlayQuarters\obj\Debug\LinePlayQuarters_MarkupCompile.lref
+C:\Users\Gergő\codes\LinePlayQuarters\LinePlayQuarters\bin\Debug\LinePlayQuarters.exe.config
+C:\Users\Gergő\codes\LinePlayQuarters\LinePlayQuarters\bin\Debug\LinePlayQuarters.exe
+C:\Users\Gergő\codes\LinePlayQuarters\LinePlayQuarters\bin\Debug\LinePlayQuarters.pdb
+C:\Users\Gergő\codes\LinePlayQuarters\LinePlayQuarters\obj\Debug\MainWindow.baml
+C:\Users\Gergő\codes\LinePlayQuarters\LinePlayQuarters\obj\Debug\LinePlayQuarters.g.resources
+C:\Users\Gergő\codes\LinePlayQuarters\LinePlayQuarters\obj\Debug\LinePlayQuarters.Properties.Resources.resources
+C:\Users\Gergő\codes\LinePlayQuarters\LinePlayQuarters\obj\Debug\LinePlayQuarters.csproj.GenerateResource.Cache
+C:\Users\Gergő\codes\LinePlayQuarters\LinePlayQuarters\obj\Debug\LinePlayQuarters.csproj.CoreCompileInputs.cache
+C:\Users\Gergő\codes\LinePlayQuarters\LinePlayQuarters\obj\Debug\LinePlayQuarters.exe
+C:\Users\Gergő\codes\LinePlayQuarters\LinePlayQuarters\obj\Debug\LinePlayQuarters.pdb

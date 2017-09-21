@@ -1,0 +1,15 @@
+C:\Users\Gergő\codes\LinePlay\LinePlay\bin\Debug\LinePlay.exe.config
+C:\Users\Gergő\codes\LinePlay\LinePlay\bin\Debug\LinePlay.exe
+C:\Users\Gergő\codes\LinePlay\LinePlay\bin\Debug\LinePlay.pdb
+C:\Users\Gergő\codes\LinePlay\LinePlay\obj\Debug\LinePlay.csprojResolveAssemblyReference.cache
+C:\Users\Gergő\codes\LinePlay\LinePlay\obj\Debug\MainWindow.g.cs
+C:\Users\Gergő\codes\LinePlay\LinePlay\obj\Debug\App.g.cs
+C:\Users\Gergő\codes\LinePlay\LinePlay\obj\Debug\LinePlay_MarkupCompile.cache
+C:\Users\Gergő\codes\LinePlay\LinePlay\obj\Debug\LinePlay_MarkupCompile.lref
+C:\Users\Gergő\codes\LinePlay\LinePlay\obj\Debug\MainWindow.baml
+C:\Users\Gergő\codes\LinePlay\LinePlay\obj\Debug\LinePlay.g.resources
+C:\Users\Gergő\codes\LinePlay\LinePlay\obj\Debug\LinePlay.Properties.Resources.resources
+C:\Users\Gergő\codes\LinePlay\LinePlay\obj\Debug\LinePlay.csproj.GenerateResource.Cache
+C:\Users\Gergő\codes\LinePlay\LinePlay\obj\Debug\LinePlay.csproj.CoreCompileInputs.cache
+C:\Users\Gergő\codes\LinePlay\LinePlay\obj\Debug\LinePlay.exe
+C:\Users\Gergő\codes\LinePlay\LinePlay\obj\Debug\LinePlay.pdb

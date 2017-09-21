@@ -1,0 +1,14 @@
+C:\Users\Gergő\codes\ColoredBox\ColoredBox\bin\Debug\ColoredBox.exe.config
+C:\Users\Gergő\codes\ColoredBox\ColoredBox\bin\Debug\ColoredBox.exe
+C:\Users\Gergő\codes\ColoredBox\ColoredBox\bin\Debug\ColoredBox.pdb
+C:\Users\Gergő\codes\ColoredBox\ColoredBox\obj\Debug\MainWindow.g.cs
+C:\Users\Gergő\codes\ColoredBox\ColoredBox\obj\Debug\App.g.cs
+C:\Users\Gergő\codes\ColoredBox\ColoredBox\obj\Debug\ColoredBox_MarkupCompile.cache
+C:\Users\Gergő\codes\ColoredBox\ColoredBox\obj\Debug\ColoredBox_MarkupCompile.lref
+C:\Users\Gergő\codes\ColoredBox\ColoredBox\obj\Debug\MainWindow.baml
+C:\Users\Gergő\codes\ColoredBox\ColoredBox\obj\Debug\ColoredBox.g.resources
+C:\Users\Gergő\codes\ColoredBox\ColoredBox\obj\Debug\ColoredBox.Properties.Resources.resources
+C:\Users\Gergő\codes\ColoredBox\ColoredBox\obj\Debug\ColoredBox.csproj.GenerateResource.Cache
+C:\Users\Gergő\codes\ColoredBox\ColoredBox\obj\Debug\ColoredBox.csproj.CoreCompileInputs.cache
+C:\Users\Gergő\codes\ColoredBox\ColoredBox\obj\Debug\ColoredBox.exe
+C:\Users\Gergő\codes\ColoredBox\ColoredBox\obj\Debug\ColoredBox.pdb

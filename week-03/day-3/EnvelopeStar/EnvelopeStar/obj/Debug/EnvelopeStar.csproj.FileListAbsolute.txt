@@ -1,0 +1,14 @@
+C:\Users\Gergő\codes\EnvelopeStar\EnvelopeStar\bin\Debug\EnvelopeStar.exe.config
+C:\Users\Gergő\codes\EnvelopeStar\EnvelopeStar\bin\Debug\EnvelopeStar.exe
+C:\Users\Gergő\codes\EnvelopeStar\EnvelopeStar\bin\Debug\EnvelopeStar.pdb
+C:\Users\Gergő\codes\EnvelopeStar\EnvelopeStar\obj\Debug\MainWindow.g.cs
+C:\Users\Gergő\codes\EnvelopeStar\EnvelopeStar\obj\Debug\App.g.cs
+C:\Users\Gergő\codes\EnvelopeStar\EnvelopeStar\obj\Debug\EnvelopeStar_MarkupCompile.cache
+C:\Users\Gergő\codes\EnvelopeStar\EnvelopeStar\obj\Debug\EnvelopeStar_MarkupCompile.lref
+C:\Users\Gergő\codes\EnvelopeStar\EnvelopeStar\obj\Debug\MainWindow.baml
+C:\Users\Gergő\codes\EnvelopeStar\EnvelopeStar\obj\Debug\EnvelopeStar.g.resources
+C:\Users\Gergő\codes\EnvelopeStar\EnvelopeStar\obj\Debug\EnvelopeStar.Properties.Resources.resources
+C:\Users\Gergő\codes\EnvelopeStar\EnvelopeStar\obj\Debug\EnvelopeStar.csproj.GenerateResource.Cache
+C:\Users\Gergő\codes\EnvelopeStar\EnvelopeStar\obj\Debug\EnvelopeStar.csproj.CoreCompileInputs.cache
+C:\Users\Gergő\codes\EnvelopeStar\EnvelopeStar\obj\Debug\EnvelopeStar.exe
+C:\Users\Gergő\codes\EnvelopeStar\EnvelopeStar\obj\Debug\EnvelopeStar.pdb

@@ -1,0 +1,14 @@
+C:\Users\Gergő\codes\Checkerboard\Checkerboard\bin\Debug\Checkerboard.exe.config
+C:\Users\Gergő\codes\Checkerboard\Checkerboard\bin\Debug\Checkerboard.exe
+C:\Users\Gergő\codes\Checkerboard\Checkerboard\bin\Debug\Checkerboard.pdb
+C:\Users\Gergő\codes\Checkerboard\Checkerboard\obj\Debug\MainWindow.g.cs
+C:\Users\Gergő\codes\Checkerboard\Checkerboard\obj\Debug\App.g.cs
+C:\Users\Gergő\codes\Checkerboard\Checkerboard\obj\Debug\Checkerboard_MarkupCompile.cache
+C:\Users\Gergő\codes\Checkerboard\Checkerboard\obj\Debug\Checkerboard_MarkupCompile.lref
+C:\Users\Gergő\codes\Checkerboard\Checkerboard\obj\Debug\MainWindow.baml
+C:\Users\Gergő\codes\Checkerboard\Checkerboard\obj\Debug\Checkerboard.g.resources
+C:\Users\Gergő\codes\Checkerboard\Checkerboard\obj\Debug\Checkerboard.Properties.Resources.resources
+C:\Users\Gergő\codes\Checkerboard\Checkerboard\obj\Debug\Checkerboard.csproj.GenerateResource.Cache
+C:\Users\Gergő\codes\Checkerboard\Checkerboard\obj\Debug\Checkerboard.csproj.CoreCompileInputs.cache
+C:\Users\Gergő\codes\Checkerboard\Checkerboard\obj\Debug\Checkerboard.exe
+C:\Users\Gergő\codes\Checkerboard\Checkerboard\obj\Debug\Checkerboard.pdb

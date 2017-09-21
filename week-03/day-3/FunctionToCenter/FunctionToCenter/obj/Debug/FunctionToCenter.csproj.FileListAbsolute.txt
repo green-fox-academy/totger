@@ -1,0 +1,14 @@
+C:\Users\Gergő\codes\FunctionToCenter\FunctionToCenter\obj\Debug\MainWindow.g.cs
+C:\Users\Gergő\codes\FunctionToCenter\FunctionToCenter\obj\Debug\App.g.cs
+C:\Users\Gergő\codes\FunctionToCenter\FunctionToCenter\obj\Debug\FunctionToCenter_MarkupCompile.cache
+C:\Users\Gergő\codes\FunctionToCenter\FunctionToCenter\obj\Debug\FunctionToCenter_MarkupCompile.lref
+C:\Users\Gergő\codes\FunctionToCenter\FunctionToCenter\bin\Debug\FunctionToCenter.exe.config
+C:\Users\Gergő\codes\FunctionToCenter\FunctionToCenter\bin\Debug\FunctionToCenter.exe
+C:\Users\Gergő\codes\FunctionToCenter\FunctionToCenter\bin\Debug\FunctionToCenter.pdb
+C:\Users\Gergő\codes\FunctionToCenter\FunctionToCenter\obj\Debug\MainWindow.baml
+C:\Users\Gergő\codes\FunctionToCenter\FunctionToCenter\obj\Debug\FunctionToCenter.g.resources
+C:\Users\Gergő\codes\FunctionToCenter\FunctionToCenter\obj\Debug\FunctionToCenter.Properties.Resources.resources
+C:\Users\Gergő\codes\FunctionToCenter\FunctionToCenter\obj\Debug\FunctionToCenter.csproj.GenerateResource.Cache
+C:\Users\Gergő\codes\FunctionToCenter\FunctionToCenter\obj\Debug\FunctionToCenter.csproj.CoreCompileInputs.cache
+C:\Users\Gergő\codes\FunctionToCenter\FunctionToCenter\obj\Debug\FunctionToCenter.exe
+C:\Users\Gergő\codes\FunctionToCenter\FunctionToCenter\obj\Debug\FunctionToCenter.pdb

@@ -1,0 +1,15 @@
+C:\Users\Gergő\codes\RainbowBoxFunction\RainbowBoxFunction\bin\Debug\RainbowBoxFunction.exe.config
+C:\Users\Gergő\codes\RainbowBoxFunction\RainbowBoxFunction\bin\Debug\RainbowBoxFunction.exe
+C:\Users\Gergő\codes\RainbowBoxFunction\RainbowBoxFunction\bin\Debug\RainbowBoxFunction.pdb
+C:\Users\Gergő\codes\RainbowBoxFunction\RainbowBoxFunction\obj\Debug\RainbowBoxFunction.csprojResolveAssemblyReference.cache
+C:\Users\Gergő\codes\RainbowBoxFunction\RainbowBoxFunction\obj\Debug\MainWindow.g.cs
+C:\Users\Gergő\codes\RainbowBoxFunction\RainbowBoxFunction\obj\Debug\App.g.cs
+C:\Users\Gergő\codes\RainbowBoxFunction\RainbowBoxFunction\obj\Debug\RainbowBoxFunction_MarkupCompile.cache
+C:\Users\Gergő\codes\RainbowBoxFunction\RainbowBoxFunction\obj\Debug\RainbowBoxFunction_MarkupCompile.lref
+C:\Users\Gergő\codes\RainbowBoxFunction\RainbowBoxFunction\obj\Debug\MainWindow.baml
+C:\Users\Gergő\codes\RainbowBoxFunction\RainbowBoxFunction\obj\Debug\RainbowBoxFunction.g.resources
+C:\Users\Gergő\codes\RainbowBoxFunction\RainbowBoxFunction\obj\Debug\RainbowBoxFunction.Properties.Resources.resources
+C:\Users\Gergő\codes\RainbowBoxFunction\RainbowBoxFunction\obj\Debug\RainbowBoxFunction.csproj.GenerateResource.Cache
+C:\Users\Gergő\codes\RainbowBoxFunction\RainbowBoxFunction\obj\Debug\RainbowBoxFunction.csproj.CoreCompileInputs.cache
+C:\Users\Gergő\codes\RainbowBoxFunction\RainbowBoxFunction\obj\Debug\RainbowBoxFunction.exe
+C:\Users\Gergő\codes\RainbowBoxFunction\RainbowBoxFunction\obj\Debug\RainbowBoxFunction.pdb
