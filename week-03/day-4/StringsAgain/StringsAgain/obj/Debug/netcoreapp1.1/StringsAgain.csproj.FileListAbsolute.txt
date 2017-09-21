@@ -1,0 +1,9 @@
+C:\Users\Gergő\codes\totger\week-03\day-4\StringsAgain\StringsAgain\bin\Debug\netcoreapp1.1\StringsAgain.deps.json
+C:\Users\Gergő\codes\totger\week-03\day-4\StringsAgain\StringsAgain\bin\Debug\netcoreapp1.1\StringsAgain.runtimeconfig.json
+C:\Users\Gergő\codes\totger\week-03\day-4\StringsAgain\StringsAgain\bin\Debug\netcoreapp1.1\StringsAgain.runtimeconfig.dev.json
+C:\Users\Gergő\codes\totger\week-03\day-4\StringsAgain\StringsAgain\bin\Debug\netcoreapp1.1\StringsAgain.dll
+C:\Users\Gergő\codes\totger\week-03\day-4\StringsAgain\StringsAgain\bin\Debug\netcoreapp1.1\StringsAgain.pdb
+C:\Users\Gergő\codes\totger\week-03\day-4\StringsAgain\StringsAgain\obj\Debug\netcoreapp1.1\StringsAgain.csproj.CoreCompileInputs.cache
+C:\Users\Gergő\codes\totger\week-03\day-4\StringsAgain\StringsAgain\obj\Debug\netcoreapp1.1\StringsAgain.AssemblyInfo.cs
+C:\Users\Gergő\codes\totger\week-03\day-4\StringsAgain\StringsAgain\obj\Debug\netcoreapp1.1\StringsAgain.dll
+C:\Users\Gergő\codes\totger\week-03\day-4\StringsAgain\StringsAgain\obj\Debug\netcoreapp1.1\StringsAgain.pdb
