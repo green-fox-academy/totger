@@ -1,0 +1,10 @@
+C:\Users\Gergő\codes\totger\week-03\day-4\NumberAdder\NumberAdder\bin\Debug\netcoreapp1.1\NumberAdder.deps.json
+C:\Users\Gergő\codes\totger\week-03\day-4\NumberAdder\NumberAdder\bin\Debug\netcoreapp1.1\NumberAdder.runtimeconfig.json
+C:\Users\Gergő\codes\totger\week-03\day-4\NumberAdder\NumberAdder\bin\Debug\netcoreapp1.1\NumberAdder.runtimeconfig.dev.json
+C:\Users\Gergő\codes\totger\week-03\day-4\NumberAdder\NumberAdder\bin\Debug\netcoreapp1.1\NumberAdder.dll
+C:\Users\Gergő\codes\totger\week-03\day-4\NumberAdder\NumberAdder\bin\Debug\netcoreapp1.1\NumberAdder.pdb
+C:\Users\Gergő\codes\totger\week-03\day-4\NumberAdder\NumberAdder\obj\Debug\netcoreapp1.1\NumberAdder.csprojResolveAssemblyReference.cache
+C:\Users\Gergő\codes\totger\week-03\day-4\NumberAdder\NumberAdder\obj\Debug\netcoreapp1.1\NumberAdder.csproj.CoreCompileInputs.cache
+C:\Users\Gergő\codes\totger\week-03\day-4\NumberAdder\NumberAdder\obj\Debug\netcoreapp1.1\NumberAdder.AssemblyInfo.cs
+C:\Users\Gergő\codes\totger\week-03\day-4\NumberAdder\NumberAdder\obj\Debug\netcoreapp1.1\NumberAdder.dll
+C:\Users\Gergő\codes\totger\week-03\day-4\NumberAdder\NumberAdder\obj\Debug\netcoreapp1.1\NumberAdder.pdb

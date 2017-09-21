@@ -1,0 +1,10 @@
+C:\Users\Gergő\codes\totger\week-03\day-4\Counter\Counter\bin\Debug\netcoreapp1.1\Counter.deps.json
+C:\Users\Gergő\codes\totger\week-03\day-4\Counter\Counter\bin\Debug\netcoreapp1.1\Counter.runtimeconfig.json
+C:\Users\Gergő\codes\totger\week-03\day-4\Counter\Counter\bin\Debug\netcoreapp1.1\Counter.runtimeconfig.dev.json
+C:\Users\Gergő\codes\totger\week-03\day-4\Counter\Counter\bin\Debug\netcoreapp1.1\Counter.dll
+C:\Users\Gergő\codes\totger\week-03\day-4\Counter\Counter\bin\Debug\netcoreapp1.1\Counter.pdb
+C:\Users\Gergő\codes\totger\week-03\day-4\Counter\Counter\obj\Debug\netcoreapp1.1\Counter.csprojResolveAssemblyReference.cache
+C:\Users\Gergő\codes\totger\week-03\day-4\Counter\Counter\obj\Debug\netcoreapp1.1\Counter.csproj.CoreCompileInputs.cache
+C:\Users\Gergő\codes\totger\week-03\day-4\Counter\Counter\obj\Debug\netcoreapp1.1\Counter.AssemblyInfo.cs
+C:\Users\Gergő\codes\totger\week-03\day-4\Counter\Counter\obj\Debug\netcoreapp1.1\Counter.dll
+C:\Users\Gergő\codes\totger\week-03\day-4\Counter\Counter\obj\Debug\netcoreapp1.1\Counter.pdb
