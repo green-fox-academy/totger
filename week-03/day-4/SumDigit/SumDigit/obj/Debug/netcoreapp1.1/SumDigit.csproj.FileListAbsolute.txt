@@ -1,0 +1,9 @@
+C:\Users\Gergő\codes\totger\week-03\day-4\SumDigit\SumDigit\bin\Debug\netcoreapp1.1\SumDigit.deps.json
+C:\Users\Gergő\codes\totger\week-03\day-4\SumDigit\SumDigit\bin\Debug\netcoreapp1.1\SumDigit.runtimeconfig.json
+C:\Users\Gergő\codes\totger\week-03\day-4\SumDigit\SumDigit\bin\Debug\netcoreapp1.1\SumDigit.runtimeconfig.dev.json
+C:\Users\Gergő\codes\totger\week-03\day-4\SumDigit\SumDigit\bin\Debug\netcoreapp1.1\SumDigit.dll
+C:\Users\Gergő\codes\totger\week-03\day-4\SumDigit\SumDigit\bin\Debug\netcoreapp1.1\SumDigit.pdb
+C:\Users\Gergő\codes\totger\week-03\day-4\SumDigit\SumDigit\obj\Debug\netcoreapp1.1\SumDigit.csproj.CoreCompileInputs.cache
+C:\Users\Gergő\codes\totger\week-03\day-4\SumDigit\SumDigit\obj\Debug\netcoreapp1.1\SumDigit.AssemblyInfo.cs
+C:\Users\Gergő\codes\totger\week-03\day-4\SumDigit\SumDigit\obj\Debug\netcoreapp1.1\SumDigit.dll
+C:\Users\Gergő\codes\totger\week-03\day-4\SumDigit\SumDigit\obj\Debug\netcoreapp1.1\SumDigit.pdb
