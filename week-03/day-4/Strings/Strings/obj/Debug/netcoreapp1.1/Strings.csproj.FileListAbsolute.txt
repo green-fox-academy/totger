@@ -1,0 +1,10 @@
+C:\Users\Gergő\codes\totger\week-03\day-4\Strings\Strings\bin\Debug\netcoreapp1.1\Strings.deps.json
+C:\Users\Gergő\codes\totger\week-03\day-4\Strings\Strings\bin\Debug\netcoreapp1.1\Strings.runtimeconfig.json
+C:\Users\Gergő\codes\totger\week-03\day-4\Strings\Strings\bin\Debug\netcoreapp1.1\Strings.runtimeconfig.dev.json
+C:\Users\Gergő\codes\totger\week-03\day-4\Strings\Strings\bin\Debug\netcoreapp1.1\Strings.dll
+C:\Users\Gergő\codes\totger\week-03\day-4\Strings\Strings\bin\Debug\netcoreapp1.1\Strings.pdb
+C:\Users\Gergő\codes\totger\week-03\day-4\Strings\Strings\obj\Debug\netcoreapp1.1\Strings.csprojResolveAssemblyReference.cache
+C:\Users\Gergő\codes\totger\week-03\day-4\Strings\Strings\obj\Debug\netcoreapp1.1\Strings.csproj.CoreCompileInputs.cache
+C:\Users\Gergő\codes\totger\week-03\day-4\Strings\Strings\obj\Debug\netcoreapp1.1\Strings.AssemblyInfo.cs
+C:\Users\Gergő\codes\totger\week-03\day-4\Strings\Strings\obj\Debug\netcoreapp1.1\Strings.dll
+C:\Users\Gergő\codes\totger\week-03\day-4\Strings\Strings\obj\Debug\netcoreapp1.1\Strings.pdb
