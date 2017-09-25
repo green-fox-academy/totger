@@ -1,0 +1,5 @@
+/Users/gergo/Documents/GreenFox/totger/week-04/day-1/Dice/obj/x86/Debug/Dice.csproj.CoreCompileInputs.cache
+/Users/gergo/Documents/GreenFox/totger/week-04/day-1/Dice/bin/Debug/Dice.exe
+/Users/gergo/Documents/GreenFox/totger/week-04/day-1/Dice/bin/Debug/Dice.pdb
+/Users/gergo/Documents/GreenFox/totger/week-04/day-1/Dice/obj/x86/Debug/Dice.exe
+/Users/gergo/Documents/GreenFox/totger/week-04/day-1/Dice/obj/x86/Debug/Dice.pdb
