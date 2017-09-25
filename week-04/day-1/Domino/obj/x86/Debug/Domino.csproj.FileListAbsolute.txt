@@ -1,0 +1,5 @@
+/Users/gergo/Documents/GreenFox/totger/week-04/day-1/Domino/bin/Debug/Domino.exe
+/Users/gergo/Documents/GreenFox/totger/week-04/day-1/Domino/bin/Debug/Domino.pdb
+/Users/gergo/Documents/GreenFox/totger/week-04/day-1/Domino/obj/x86/Debug/Domino.csproj.CoreCompileInputs.cache
+/Users/gergo/Documents/GreenFox/totger/week-04/day-1/Domino/obj/x86/Debug/Domino.exe
+/Users/gergo/Documents/GreenFox/totger/week-04/day-1/Domino/obj/x86/Debug/Domino.pdb
