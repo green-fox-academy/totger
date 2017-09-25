@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{EC5E3D77-741C-4AAB-A516-2DE4C8CC441D}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
     <Files>
-      <File FileName="Program.cs" Line="29" Column="51" />
+      <File FileName="Program.cs" Line="39" Column="2" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.CopyFile PreferredExecutionTarget="MonoDevelop.Default" />

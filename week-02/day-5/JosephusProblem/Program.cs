@@ -6,18 +6,12 @@ namespace JosephusProblem
     {
         public static void Main(string[] args)
         {
-			List<int> people = new List<int>();
-			int input = Convert.ToInt32(Console.ReadLine());
-			for (int i = 0; i < input; i++)
-			{
-				people.Add(i + 1);
-			}
-
-            Console.WriteLine(GetWinner(people));
+            Console.WriteLine(GetWinner(GetList()));
         }
 
-        private static int GetWinner(List<int> people)
+        public static int GetWinner(List<int> people)
         {
+
             if (people.Count == 1)
             {
                 return people[0];
@@ -38,6 +32,16 @@ namespace JosephusProblem
 					people.RemoveAt(j);
 			}
             return GetWinner(people);
-		}          
+		}
+        public static List<int> GetList()
+        {
+			List<int> people = new List<int>();
+			int input = Convert.ToInt32(Console.ReadLine());
+			for (int i = 0; i < input; i++)
+			{
+				people.Add(i + 1);
+			}
+            return people;
+        }
     }
 }
