@@ -1,0 +1,10 @@
+C:\Users\Gergő\codes\totger\week-03\day-4\Bunnies\Bunnies\bin\Debug\netcoreapp1.1\Bunnies.deps.json
+C:\Users\Gergő\codes\totger\week-03\day-4\Bunnies\Bunnies\bin\Debug\netcoreapp1.1\Bunnies.runtimeconfig.json
+C:\Users\Gergő\codes\totger\week-03\day-4\Bunnies\Bunnies\bin\Debug\netcoreapp1.1\Bunnies.runtimeconfig.dev.json
+C:\Users\Gergő\codes\totger\week-03\day-4\Bunnies\Bunnies\bin\Debug\netcoreapp1.1\Bunnies.dll
+C:\Users\Gergő\codes\totger\week-03\day-4\Bunnies\Bunnies\bin\Debug\netcoreapp1.1\Bunnies.pdb
+C:\Users\Gergő\codes\totger\week-03\day-4\Bunnies\Bunnies\obj\Debug\netcoreapp1.1\Bunnies.csprojResolveAssemblyReference.cache
+C:\Users\Gergő\codes\totger\week-03\day-4\Bunnies\Bunnies\obj\Debug\netcoreapp1.1\Bunnies.csproj.CoreCompileInputs.cache
+C:\Users\Gergő\codes\totger\week-03\day-4\Bunnies\Bunnies\obj\Debug\netcoreapp1.1\Bunnies.AssemblyInfo.cs
+C:\Users\Gergő\codes\totger\week-03\day-4\Bunnies\Bunnies\obj\Debug\netcoreapp1.1\Bunnies.dll
+C:\Users\Gergő\codes\totger\week-03\day-4\Bunnies\Bunnies\obj\Debug\netcoreapp1.1\Bunnies.pdb

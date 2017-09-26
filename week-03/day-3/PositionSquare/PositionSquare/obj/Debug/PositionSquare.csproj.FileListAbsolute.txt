@@ -1,0 +1,14 @@
+C:\Users\Gergő\codes\PositionSquare\PositionSquare\bin\Debug\PositionSquare.exe.config
+C:\Users\Gergő\codes\PositionSquare\PositionSquare\bin\Debug\PositionSquare.exe
+C:\Users\Gergő\codes\PositionSquare\PositionSquare\bin\Debug\PositionSquare.pdb
+C:\Users\Gergő\codes\PositionSquare\PositionSquare\obj\Debug\MainWindow.g.cs
+C:\Users\Gergő\codes\PositionSquare\PositionSquare\obj\Debug\App.g.cs
+C:\Users\Gergő\codes\PositionSquare\PositionSquare\obj\Debug\PositionSquare_MarkupCompile.cache
+C:\Users\Gergő\codes\PositionSquare\PositionSquare\obj\Debug\PositionSquare_MarkupCompile.lref
+C:\Users\Gergő\codes\PositionSquare\PositionSquare\obj\Debug\MainWindow.baml
+C:\Users\Gergő\codes\PositionSquare\PositionSquare\obj\Debug\PositionSquare.g.resources
+C:\Users\Gergő\codes\PositionSquare\PositionSquare\obj\Debug\PositionSquare.Properties.Resources.resources
+C:\Users\Gergő\codes\PositionSquare\PositionSquare\obj\Debug\PositionSquare.csproj.GenerateResource.Cache
+C:\Users\Gergő\codes\PositionSquare\PositionSquare\obj\Debug\PositionSquare.csproj.CoreCompileInputs.cache
+C:\Users\Gergő\codes\PositionSquare\PositionSquare\obj\Debug\PositionSquare.exe
+C:\Users\Gergő\codes\PositionSquare\PositionSquare\obj\Debug\PositionSquare.pdb

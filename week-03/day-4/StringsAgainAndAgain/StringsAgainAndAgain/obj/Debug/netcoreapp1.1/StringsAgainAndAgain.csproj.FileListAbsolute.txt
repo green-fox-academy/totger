@@ -1,0 +1,9 @@
+C:\Users\Gergő\codes\totger\week-03\day-4\StringsAgainAndAgain\StringsAgainAndAgain\bin\Debug\netcoreapp1.1\StringsAgainAndAgain.deps.json
+C:\Users\Gergő\codes\totger\week-03\day-4\StringsAgainAndAgain\StringsAgainAndAgain\bin\Debug\netcoreapp1.1\StringsAgainAndAgain.runtimeconfig.json
+C:\Users\Gergő\codes\totger\week-03\day-4\StringsAgainAndAgain\StringsAgainAndAgain\bin\Debug\netcoreapp1.1\StringsAgainAndAgain.runtimeconfig.dev.json
+C:\Users\Gergő\codes\totger\week-03\day-4\StringsAgainAndAgain\StringsAgainAndAgain\bin\Debug\netcoreapp1.1\StringsAgainAndAgain.dll
+C:\Users\Gergő\codes\totger\week-03\day-4\StringsAgainAndAgain\StringsAgainAndAgain\bin\Debug\netcoreapp1.1\StringsAgainAndAgain.pdb
+C:\Users\Gergő\codes\totger\week-03\day-4\StringsAgainAndAgain\StringsAgainAndAgain\obj\Debug\netcoreapp1.1\StringsAgainAndAgain.csproj.CoreCompileInputs.cache
+C:\Users\Gergő\codes\totger\week-03\day-4\StringsAgainAndAgain\StringsAgainAndAgain\obj\Debug\netcoreapp1.1\StringsAgainAndAgain.AssemblyInfo.cs
+C:\Users\Gergő\codes\totger\week-03\day-4\StringsAgainAndAgain\StringsAgainAndAgain\obj\Debug\netcoreapp1.1\StringsAgainAndAgain.dll
+C:\Users\Gergő\codes\totger\week-03\day-4\StringsAgainAndAgain\StringsAgainAndAgain\obj\Debug\netcoreapp1.1\StringsAgainAndAgain.pdb

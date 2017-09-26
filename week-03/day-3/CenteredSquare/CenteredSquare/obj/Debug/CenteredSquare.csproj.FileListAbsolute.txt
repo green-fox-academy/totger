@@ -1,0 +1,14 @@
+C:\Users\Gergő\codes\CenteredSquare\CenteredSquare\bin\Debug\CenteredSquare.exe.config
+C:\Users\Gergő\codes\CenteredSquare\CenteredSquare\bin\Debug\CenteredSquare.exe
+C:\Users\Gergő\codes\CenteredSquare\CenteredSquare\bin\Debug\CenteredSquare.pdb
+C:\Users\Gergő\codes\CenteredSquare\CenteredSquare\obj\Debug\MainWindow.g.cs
+C:\Users\Gergő\codes\CenteredSquare\CenteredSquare\obj\Debug\App.g.cs
+C:\Users\Gergő\codes\CenteredSquare\CenteredSquare\obj\Debug\CenteredSquare_MarkupCompile.cache
+C:\Users\Gergő\codes\CenteredSquare\CenteredSquare\obj\Debug\CenteredSquare_MarkupCompile.lref
+C:\Users\Gergő\codes\CenteredSquare\CenteredSquare\obj\Debug\MainWindow.baml
+C:\Users\Gergő\codes\CenteredSquare\CenteredSquare\obj\Debug\CenteredSquare.g.resources
+C:\Users\Gergő\codes\CenteredSquare\CenteredSquare\obj\Debug\CenteredSquare.Properties.Resources.resources
+C:\Users\Gergő\codes\CenteredSquare\CenteredSquare\obj\Debug\CenteredSquare.csproj.GenerateResource.Cache
+C:\Users\Gergő\codes\CenteredSquare\CenteredSquare\obj\Debug\CenteredSquare.csproj.CoreCompileInputs.cache
+C:\Users\Gergő\codes\CenteredSquare\CenteredSquare\obj\Debug\CenteredSquare.exe
+C:\Users\Gergő\codes\CenteredSquare\CenteredSquare\obj\Debug\CenteredSquare.pdb

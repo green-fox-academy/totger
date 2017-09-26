@@ -1,0 +1,14 @@
+C:\Users\Gergő\codes\CenterBoxFunction\CenterBoxFunction\obj\Debug\MainWindow.g.cs
+C:\Users\Gergő\codes\CenterBoxFunction\CenterBoxFunction\obj\Debug\App.g.cs
+C:\Users\Gergő\codes\CenterBoxFunction\CenterBoxFunction\obj\Debug\CenterBoxFunction_MarkupCompile.cache
+C:\Users\Gergő\codes\CenterBoxFunction\CenterBoxFunction\obj\Debug\CenterBoxFunction_MarkupCompile.lref
+C:\Users\Gergő\codes\CenterBoxFunction\CenterBoxFunction\bin\Debug\CenterBoxFunction.exe.config
+C:\Users\Gergő\codes\CenterBoxFunction\CenterBoxFunction\bin\Debug\CenterBoxFunction.exe
+C:\Users\Gergő\codes\CenterBoxFunction\CenterBoxFunction\bin\Debug\CenterBoxFunction.pdb
+C:\Users\Gergő\codes\CenterBoxFunction\CenterBoxFunction\obj\Debug\MainWindow.baml
+C:\Users\Gergő\codes\CenterBoxFunction\CenterBoxFunction\obj\Debug\CenterBoxFunction.g.resources
+C:\Users\Gergő\codes\CenterBoxFunction\CenterBoxFunction\obj\Debug\CenterBoxFunction.Properties.Resources.resources
+C:\Users\Gergő\codes\CenterBoxFunction\CenterBoxFunction\obj\Debug\CenterBoxFunction.csproj.GenerateResource.Cache
+C:\Users\Gergő\codes\CenterBoxFunction\CenterBoxFunction\obj\Debug\CenterBoxFunction.csproj.CoreCompileInputs.cache
+C:\Users\Gergő\codes\CenterBoxFunction\CenterBoxFunction\obj\Debug\CenterBoxFunction.exe
+C:\Users\Gergő\codes\CenterBoxFunction\CenterBoxFunction\obj\Debug\CenterBoxFunction.pdb

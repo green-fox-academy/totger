@@ -1,0 +1,15 @@
+C:\Users\Gergő\codes\GoToCenter\GoToCenter\bin\Debug\GoToCenter.exe.config
+C:\Users\Gergő\codes\GoToCenter\GoToCenter\bin\Debug\GoToCenter.exe
+C:\Users\Gergő\codes\GoToCenter\GoToCenter\bin\Debug\GoToCenter.pdb
+C:\Users\Gergő\codes\GoToCenter\GoToCenter\obj\Debug\GoToCenter.csprojResolveAssemblyReference.cache
+C:\Users\Gergő\codes\GoToCenter\GoToCenter\obj\Debug\MainWindow.g.cs
+C:\Users\Gergő\codes\GoToCenter\GoToCenter\obj\Debug\App.g.cs
+C:\Users\Gergő\codes\GoToCenter\GoToCenter\obj\Debug\GoToCenter_MarkupCompile.cache
+C:\Users\Gergő\codes\GoToCenter\GoToCenter\obj\Debug\GoToCenter_MarkupCompile.lref
+C:\Users\Gergő\codes\GoToCenter\GoToCenter\obj\Debug\MainWindow.baml
+C:\Users\Gergő\codes\GoToCenter\GoToCenter\obj\Debug\GoToCenter.g.resources
+C:\Users\Gergő\codes\GoToCenter\GoToCenter\obj\Debug\GoToCenter.Properties.Resources.resources
+C:\Users\Gergő\codes\GoToCenter\GoToCenter\obj\Debug\GoToCenter.csproj.GenerateResource.Cache
+C:\Users\Gergő\codes\GoToCenter\GoToCenter\obj\Debug\GoToCenter.csproj.CoreCompileInputs.cache
+C:\Users\Gergő\codes\GoToCenter\GoToCenter\obj\Debug\GoToCenter.exe
+C:\Users\Gergő\codes\GoToCenter\GoToCenter\obj\Debug\GoToCenter.pdb

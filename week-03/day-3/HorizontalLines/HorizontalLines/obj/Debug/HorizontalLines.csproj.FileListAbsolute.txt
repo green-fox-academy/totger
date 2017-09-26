@@ -1,0 +1,14 @@
+C:\Users\Gergő\codes\HorizontalLines\HorizontalLines\bin\Debug\HorizontalLines.exe.config
+C:\Users\Gergő\codes\HorizontalLines\HorizontalLines\bin\Debug\HorizontalLines.exe
+C:\Users\Gergő\codes\HorizontalLines\HorizontalLines\bin\Debug\HorizontalLines.pdb
+C:\Users\Gergő\codes\HorizontalLines\HorizontalLines\obj\Debug\MainWindow.g.cs
+C:\Users\Gergő\codes\HorizontalLines\HorizontalLines\obj\Debug\App.g.cs
+C:\Users\Gergő\codes\HorizontalLines\HorizontalLines\obj\Debug\HorizontalLines_MarkupCompile.cache
+C:\Users\Gergő\codes\HorizontalLines\HorizontalLines\obj\Debug\HorizontalLines_MarkupCompile.lref
+C:\Users\Gergő\codes\HorizontalLines\HorizontalLines\obj\Debug\MainWindow.baml
+C:\Users\Gergő\codes\HorizontalLines\HorizontalLines\obj\Debug\HorizontalLines.g.resources
+C:\Users\Gergő\codes\HorizontalLines\HorizontalLines\obj\Debug\HorizontalLines.Properties.Resources.resources
+C:\Users\Gergő\codes\HorizontalLines\HorizontalLines\obj\Debug\HorizontalLines.csproj.GenerateResource.Cache
+C:\Users\Gergő\codes\HorizontalLines\HorizontalLines\obj\Debug\HorizontalLines.csproj.CoreCompileInputs.cache
+C:\Users\Gergő\codes\HorizontalLines\HorizontalLines\obj\Debug\HorizontalLines.exe
+C:\Users\Gergő\codes\HorizontalLines\HorizontalLines\obj\Debug\HorizontalLines.pdb

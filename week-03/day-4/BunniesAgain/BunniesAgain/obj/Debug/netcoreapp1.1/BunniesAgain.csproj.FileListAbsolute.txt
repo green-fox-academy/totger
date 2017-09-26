@@ -1,0 +1,10 @@
+C:\Users\Gergő\codes\totger\week-03\day-4\BunniesAgain\BunniesAgain\bin\Debug\netcoreapp1.1\BunniesAgain.deps.json
+C:\Users\Gergő\codes\totger\week-03\day-4\BunniesAgain\BunniesAgain\bin\Debug\netcoreapp1.1\BunniesAgain.runtimeconfig.json
+C:\Users\Gergő\codes\totger\week-03\day-4\BunniesAgain\BunniesAgain\bin\Debug\netcoreapp1.1\BunniesAgain.runtimeconfig.dev.json
+C:\Users\Gergő\codes\totger\week-03\day-4\BunniesAgain\BunniesAgain\obj\Debug\netcoreapp1.1\BunniesAgain.csproj.CoreCompileInputs.cache
+C:\Users\Gergő\codes\totger\week-03\day-4\BunniesAgain\BunniesAgain\obj\Debug\netcoreapp1.1\BunniesAgain.AssemblyInfo.cs
+C:\Users\Gergő\codes\totger\week-03\day-4\BunniesAgain\BunniesAgain\bin\Debug\netcoreapp1.1\BunniesAgain.dll
+C:\Users\Gergő\codes\totger\week-03\day-4\BunniesAgain\BunniesAgain\bin\Debug\netcoreapp1.1\BunniesAgain.pdb
+C:\Users\Gergő\codes\totger\week-03\day-4\BunniesAgain\BunniesAgain\obj\Debug\netcoreapp1.1\BunniesAgain.csprojResolveAssemblyReference.cache
+C:\Users\Gergő\codes\totger\week-03\day-4\BunniesAgain\BunniesAgain\obj\Debug\netcoreapp1.1\BunniesAgain.dll
+C:\Users\Gergő\codes\totger\week-03\day-4\BunniesAgain\BunniesAgain\obj\Debug\netcoreapp1.1\BunniesAgain.pdb

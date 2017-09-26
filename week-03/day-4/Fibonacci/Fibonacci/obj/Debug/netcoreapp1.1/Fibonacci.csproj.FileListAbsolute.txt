@@ -1,0 +1,10 @@
+C:\Users\Gergő\codes\totger\week-03\day-4\Fibonacci\Fibonacci\bin\Debug\netcoreapp1.1\Fibonacci.deps.json
+C:\Users\Gergő\codes\totger\week-03\day-4\Fibonacci\Fibonacci\bin\Debug\netcoreapp1.1\Fibonacci.runtimeconfig.json
+C:\Users\Gergő\codes\totger\week-03\day-4\Fibonacci\Fibonacci\bin\Debug\netcoreapp1.1\Fibonacci.runtimeconfig.dev.json
+C:\Users\Gergő\codes\totger\week-03\day-4\Fibonacci\Fibonacci\bin\Debug\netcoreapp1.1\Fibonacci.dll
+C:\Users\Gergő\codes\totger\week-03\day-4\Fibonacci\Fibonacci\bin\Debug\netcoreapp1.1\Fibonacci.pdb
+C:\Users\Gergő\codes\totger\week-03\day-4\Fibonacci\Fibonacci\obj\Debug\netcoreapp1.1\Fibonacci.csprojResolveAssemblyReference.cache
+C:\Users\Gergő\codes\totger\week-03\day-4\Fibonacci\Fibonacci\obj\Debug\netcoreapp1.1\Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\Gergő\codes\totger\week-03\day-4\Fibonacci\Fibonacci\obj\Debug\netcoreapp1.1\Fibonacci.AssemblyInfo.cs
+C:\Users\Gergő\codes\totger\week-03\day-4\Fibonacci\Fibonacci\obj\Debug\netcoreapp1.1\Fibonacci.dll
+C:\Users\Gergő\codes\totger\week-03\day-4\Fibonacci\Fibonacci\obj\Debug\netcoreapp1.1\Fibonacci.pdb

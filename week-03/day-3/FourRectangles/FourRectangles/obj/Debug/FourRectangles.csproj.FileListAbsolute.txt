@@ -1,0 +1,15 @@
+C:\Users\Gergő\codes\FourRectangles\FourRectangles\bin\Debug\FourRectangles.exe.config
+C:\Users\Gergő\codes\FourRectangles\FourRectangles\bin\Debug\FourRectangles.exe
+C:\Users\Gergő\codes\FourRectangles\FourRectangles\bin\Debug\FourRectangles.pdb
+C:\Users\Gergő\codes\FourRectangles\FourRectangles\obj\Debug\FourRectangles.csprojResolveAssemblyReference.cache
+C:\Users\Gergő\codes\FourRectangles\FourRectangles\obj\Debug\MainWindow.g.cs
+C:\Users\Gergő\codes\FourRectangles\FourRectangles\obj\Debug\App.g.cs
+C:\Users\Gergő\codes\FourRectangles\FourRectangles\obj\Debug\FourRectangles_MarkupCompile.cache
+C:\Users\Gergő\codes\FourRectangles\FourRectangles\obj\Debug\FourRectangles_MarkupCompile.lref
+C:\Users\Gergő\codes\FourRectangles\FourRectangles\obj\Debug\MainWindow.baml
+C:\Users\Gergő\codes\FourRectangles\FourRectangles\obj\Debug\FourRectangles.g.resources
+C:\Users\Gergő\codes\FourRectangles\FourRectangles\obj\Debug\FourRectangles.Properties.Resources.resources
+C:\Users\Gergő\codes\FourRectangles\FourRectangles\obj\Debug\FourRectangles.csproj.GenerateResource.Cache
+C:\Users\Gergő\codes\FourRectangles\FourRectangles\obj\Debug\FourRectangles.csproj.CoreCompileInputs.cache
+C:\Users\Gergő\codes\FourRectangles\FourRectangles\obj\Debug\FourRectangles.exe
+C:\Users\Gergő\codes\FourRectangles\FourRectangles\obj\Debug\FourRectangles.pdb
