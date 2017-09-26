@@ -27,16 +27,16 @@ namespace GreenFox
             skippedDays = 0;
         }
 
-        public new void GetGoal()
+        public override void GetGoal()
         {
             Console.WriteLine("Be a junior software developer.");
         }
 
-        public new void Introduce()
+        public override void Introduce()
         {
-            Console.WriteLine("Hi, I'm {0}, a {1} age year old student from {2}" +
+            Console.WriteLine("Hi, I'm {0}, a {1} year old student from {2} " +
                               "who skipped {3} days from the course already."
-                              , name, age, gender, previousOrganization, skippedDays );
+                              , name, age, previousOrganization, skippedDays );
         }
         public void SkipDays(int NumberOfDays)
         {

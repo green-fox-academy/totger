@@ -6,8 +6,8 @@ namespace GreenFox
     public class PallidaClass
     {
         private string className;
-        private List<Student> students; new List<Student>();
-        private List<Mentor> mentors; new List<Mentor>();
+        private List<Student> students;
+        private List<Mentor> mentors; 
 
         public PallidaClass(string ClassName)
         {
