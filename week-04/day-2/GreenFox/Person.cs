@@ -3,9 +3,9 @@ namespace GreenFox
 {
     public class Person
     {
-        private string name;
-        private int age;
-        private string gender;
+        protected string name;
+        protected int age;
+        protected string gender;
 
         public Person(string Name, int Age, string Gender)
         {
