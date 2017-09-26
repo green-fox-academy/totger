@@ -44,7 +44,7 @@ namespace Dice
 			Dices[k] = new Random().Next(1, 7);
 		}
 
-        public void GetSixes(int n=5)
+        /*public void GetSixes(int n=5)
         {
             while (Dices[n] != 6)
             {
@@ -53,6 +53,17 @@ namespace Dice
 			if (n == 0) return;
 			GetSixes(n - 1);
 
+        }*/
+
+        public void GetSixes()
+        {
+            for (int i = 0; i < Dices.Length; i++)
+            {
+                while (Dices[i] != 6)
+                {
+                    Reroll(i);
+                }
+            }
         }
 
 		public static void Main(string[] args)
