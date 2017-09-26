@@ -44,6 +44,13 @@ namespace GreenFox
 				person.GetGoal();
 			}
 
+            PallidaClass alpaga = new PallidaClass("ALPAGA");
+            alpaga.AddStudent(student);
+            alpaga.AddStudent(john);
+            alpaga.AddMentor(gandhi);
+            alpaga.AddMentor(mentor);
+            alpaga.Info();
+
         }
     }
 }
