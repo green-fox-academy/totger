@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace Dice
 {
@@ -10,7 +11,7 @@ namespace Dice
 		//    You can reroll with Reroll()
 		//    Your task is to get where all dice is a 6
 		static Random RandomValue;
-		static int[] Dices = new int[6];
+        static int[] Dices = new int[6];
 
 		public int[] Roll()
 		{
@@ -42,7 +43,7 @@ namespace Dice
 		public void Reroll(int k)
 		{
 			Dices[k] = new Random().Next(1, 7);
-		}
+        }
 
         /*public void GetSixes(int n=5)
         {
@@ -54,6 +55,26 @@ namespace Dice
 			GetSixes(n - 1);
 
         }*/
+
+        public void RollUntilSixes()
+        {
+            int[] ideal = CreateIdeal();
+            while (Dices != ideal)
+            {
+                Console.WriteLine(string.Join(",", Dices));
+                Reroll();
+            }
+        }
+
+        public int[] CreateIdeal()
+        {
+            List<int> ideal = new List<int>();
+			for (int i = 0; i < Dices.Length; i++)
+			{
+                ideal.Add(6);
+			}
+            return ideal.ToArray();
+        }
 
         public void GetSixes()
         {
@@ -80,7 +101,8 @@ namespace Dice
 			myDice.GetCurrent();
 
            
-            myDice.GetSixes();
+            //myDice.GetSixes();
+            myDice.RollUntilSixes();
             foreach (int dice in Dices)
             {
                 Console.WriteLine(dice);
