@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Extension", "Extension.csproj", "{EFDD9D93-ADC6-4056-A403-E472C32339F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtensionTest", "ExtensionTest\ExtensionTest.csproj", "{01E3EE0F-B8B4-401A-BE56-0825F73709F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFDD9D93-ADC6-4056-A403-E472C32339F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFDD9D93-ADC6-4056-A403-E472C32339F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFDD9D93-ADC6-4056-A403-E472C32339F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFDD9D93-ADC6-4056-A403-E472C32339F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01E3EE0F-B8B4-401A-BE56-0825F73709F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01E3EE0F-B8B4-401A-BE56-0825F73709F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01E3EE0F-B8B4-401A-BE56-0825F73709F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01E3EE0F-B8B4-401A-BE56-0825F73709F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
