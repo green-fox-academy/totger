@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 
 namespace Dice
 {
@@ -45,7 +46,7 @@ namespace Dice
 			Dices[k] = new Random().Next(1, 7);
         }
 
-        /*public void GetSixes(int n=5)
+		public void GetSixes(int n)
         {
             while (Dices[n] != 6)
             {
@@ -54,38 +55,65 @@ namespace Dice
 			if (n == 0) return;
 			GetSixes(n - 1);
 
-        }*/
+        }
+		
+        public void GetSixes()
+		{
+			for (int i = 0; i < Dices.Length; i++)
+			{
+				while (Dices[i] != 6)
+				{
+					Reroll(i);
+				}
+			}
+		}
 
-        public void RollUntilSixes()
+		public void RollUntilSixes()
         {
             int[] ideal = CreateIdeal();
-            while (Dices != ideal)
+            while (!Dices.SequenceEqual(ideal))
             {
-                Console.WriteLine(string.Join(",", Dices));
                 Reroll();
             }
         }
 
-        public int[] CreateIdeal()
-        {
-            List<int> ideal = new List<int>();
+		public int[] CreateIdeal()
+		{
+			List<int> ideal = new List<int>();
 			for (int i = 0; i < Dices.Length; i++)
 			{
-                ideal.Add(6);
+				ideal.Add(6);
 			}
-            return ideal.ToArray();
-        }
+			return ideal.ToArray();
+		}
 
-        public void GetSixes()
+        public void SixesWithSave()
         {
-            for (int i = 0; i < Dices.Length; i++)
+            while (true)
             {
-                while (Dices[i] != 6)
+                List<int> reRoll = CreateRerollList();
+
+                if (reRoll.Count == 0) return;
+
+                foreach (int index in reRoll)
                 {
-                    Reroll(i);
+                    Reroll(index);
                 }
             }
         }
+		
+        public List<int> CreateRerollList()
+		{
+			List<int> toReroll = new List<int>();
+			for (int i = 0; i < Dices.Length; i++)
+			{
+				if (Dices[i] != 6)
+				{
+					toReroll.Add(i);
+				}
+			}
+			return toReroll;
+		}
 
 		public static void Main(string[] args)
 		{
@@ -103,12 +131,10 @@ namespace Dice
            
             //myDice.GetSixes();
             myDice.RollUntilSixes();
-            foreach (int dice in Dices)
-            {
-                Console.WriteLine(dice);
-            }
-         
-		}
+            //myDice.SixesWithSave();
+            Console.WriteLine(string.Join(",", Dices));
+
+        }
 
 
     }
