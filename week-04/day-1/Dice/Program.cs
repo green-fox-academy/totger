@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.Linq;
 
 namespace Dice
@@ -11,10 +12,13 @@ namespace Dice
 		//    Check the current rolled numbers with GetCurrent()
 		//    You can reroll with Reroll()
 		//    Your task is to get where all dice is a 6
-		static Random RandomValue;
+        static Random RandomValue;
         static int[] Dices = new int[6];
+        static Stopwatch stopWatch = new Stopwatch();
 
-		public int[] Roll()
+        private Dictionary<int, double> stats = new Dictionary<int, double>();
+		
+        public int[] Roll()
 		{
 			for (int i = 0; i < Dices.Length; i++)
 			{
@@ -114,6 +118,56 @@ namespace Dice
 			}
 			return toReroll;
 		}
+
+        public Dice SetupSimulation(int dices)
+        {
+			Array.Resize<int>(ref Dices, dices);
+			Dice testDice = new Dice();
+            return testDice;
+        }
+
+        public void RunSimulation(Dice testDice, int method)
+        {
+            switch (method)
+            {
+                case 1:
+                    stopWatch.Start();
+                    testDice.RollUntilSixes();
+                    stopWatch.Stop();
+                    break;
+                case 2:
+					stopWatch.Start();
+                    testDice.GetSixes();
+					stopWatch.Stop();
+                    break;
+				case 3:
+					stopWatch.Start();
+                    testDice.GetSixes(Dices.Length - 1);
+					stopWatch.Stop();
+					break;
+				case 4:
+					stopWatch.Start();
+                    testDice.SixesWithSave();
+					stopWatch.Stop();
+					break;    
+                default:
+                    break;
+            }
+        }
+        public void StartSimulation(int dices, int times)
+        {
+            Dice testDice = SetupSimulation(dices);
+            for (int i = 1; i <= 4; i++)
+            {
+                int method = i;
+                for (int j = 0; j < times; j++)
+                {
+                    RunSimulation(testDice, method);
+                }
+                stats.Add(i, stopWatch.ElapsedMilliseconds / times);
+                stopWatch.Reset();
+            }
+        }
 
 		public static void Main(string[] args)
 		{
