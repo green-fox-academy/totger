@@ -90,7 +90,7 @@ namespace Extension
 		[Test]
 		public void TestMedian_FourDifferentValues()
 		{
-			Assert.AreEqual(3, extension.Median(new List<int>() { 1, 2, 3, 4 }));
+			Assert.AreEqual(2, extension.Median(new List<int>() { 1, 2, 3, 4 }));
 		}
 
 		[Test]

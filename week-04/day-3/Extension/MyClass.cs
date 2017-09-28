@@ -25,9 +25,9 @@ namespace Extension
         {
             pool.Sort();
 
-            if (pool.Count % 2 == 1) return pool[(pool.Count + 1) / 2];
+            if (pool.Count % 2 == 1) return pool[(pool.Count - 1) / 2];
 
-            return pool[(pool.Count / 2 + (pool.Count / 2 + 1)) / 2];
+            return pool[(pool.Count / 2 + (pool.Count / 2 - 1)) / 2];
         }
 
         public bool IsVowel(char c)
