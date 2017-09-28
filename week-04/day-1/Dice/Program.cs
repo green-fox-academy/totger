@@ -13,11 +13,9 @@ namespace Dice
 		//    You can reroll with Reroll()
 		//    Your task is to get where all dice is a 6
         static Random RandomValue;
-        static int[] Dices = new int[6];
         static Stopwatch stopWatch = new Stopwatch();
 
-        private Dictionary<int, double> stats = new Dictionary<int, double>();
-		
+		public int[] Dices = new int[6];
         public int[] Roll()
 		{
 			for (int i = 0; i < Dices.Length; i++)
@@ -128,6 +126,7 @@ namespace Dice
 
         public void RunSimulation(Dice testDice, int method)
         {
+            testDice.Roll();
             switch (method)
             {
                 case 1:
@@ -149,14 +148,24 @@ namespace Dice
 					stopWatch.Start();
                     testDice.SixesWithSave();
 					stopWatch.Stop();
-					break;    
-                default:
-                    break;
+					break;
             }
         }
+        public void PrintResults(int method, int times)
+        {
+            TimeSpan timespan = stopWatch.Elapsed;
+            double result = timespan.TotalMilliseconds;
+            Console.WriteLine("\n{0}. method\n" +
+                              "Average time: {1} milliseconds", 
+                              method, result / times);
+
+        }
+
         public void StartSimulation(int dices, int times)
         {
             Dice testDice = SetupSimulation(dices);
+            Console.WriteLine("----Dices: {0} - Number of tries: {1}----",
+                              Dices.Length, times);
             for (int i = 1; i <= 4; i++)
             {
                 int method = i;
@@ -164,7 +173,7 @@ namespace Dice
                 {
                     RunSimulation(testDice, method);
                 }
-                stats.Add(i, stopWatch.ElapsedMilliseconds / times);
+                PrintResults(method, times);
                 stopWatch.Reset();
             }
         }
@@ -173,21 +182,8 @@ namespace Dice
 		{
 			RandomValue = new Random();
 			Dice myDice = new Dice();
-			myDice.GetCurrent();
-			myDice.Roll();
-			myDice.GetCurrent();
-			myDice.GetCurrent(5);
-			myDice.Reroll();
-			myDice.GetCurrent();
-			myDice.Reroll(4);
-			myDice.GetCurrent();
 
-           
-            //myDice.GetSixes();
-            myDice.RollUntilSixes();
-            //myDice.SixesWithSave();
-            Console.WriteLine(string.Join(",", Dices));
-
+            myDice.StartSimulation(6, 1);
         }
 
 
