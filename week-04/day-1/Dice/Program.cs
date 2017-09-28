@@ -52,9 +52,8 @@ namespace Dice
             {
                 Reroll(n);
             }
-			if (n == 0) return;
-			GetSixes(n - 1);
-
+			if (n != 0)
+			    GetSixes(n - 1);
         }
 		
         public void GetSixes()
@@ -93,7 +92,8 @@ namespace Dice
             {
                 List<int> reRoll = CreateRerollList();
 
-                if (reRoll.Count == 0) return;
+                if (reRoll.Count == 0) 
+                    break;
 
                 foreach (int index in reRoll)
                 {
