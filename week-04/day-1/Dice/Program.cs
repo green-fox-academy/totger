@@ -14,8 +14,8 @@ namespace Dice
 		//    Your task is to get where all dice is a 6
         static Random RandomValue;
         static Stopwatch stopWatch = new Stopwatch();
+		static int[] Dices = new int[6];
 
-		public int[] Dices = new int[6];
         public int[] Roll()
 		{
 			for (int i = 0; i < Dices.Length; i++)
@@ -48,17 +48,17 @@ namespace Dice
 			Dices[k] = new Random().Next(1, 7);
         }
 
-		public void GetSixes(int n)
+		public void OneByOne(int n)
         {
             while (Dices[n] != 6)
             {
                 Reroll(n);
             }
 			if (n != 0)
-			    GetSixes(n - 1);
+			    OneByOne(n - 1);
         }
 		
-        public void GetSixes()
+        public void OneByOne()
 		{
 			for (int i = 0; i < Dices.Length; i++)
 			{
@@ -69,7 +69,7 @@ namespace Dice
 			}
 		}
 
-		public void RollUntilSixes()
+		public void RollUntilAllSixes()
         {
             int[] ideal = CreateIdeal();
             while (!Dices.SequenceEqual(ideal))
@@ -88,7 +88,7 @@ namespace Dice
 			return ideal.ToArray();
 		}
 
-        public void SixesWithSave()
+        public void RerollExceptSixes()
         {
             while (true)
             {
@@ -130,27 +130,28 @@ namespace Dice
             switch (method)
             {
                 case 1:
-                    stopWatch.Start();
-                    testDice.RollUntilSixes();
-                    stopWatch.Stop();
+					stopWatch.Start();
+					testDice.RollUntilAllSixes();
+					stopWatch.Stop();  
                     break;
                 case 2:
 					stopWatch.Start();
-                    testDice.GetSixes();
+                    testDice.OneByOne(Dices.Length - 1);
 					stopWatch.Stop();
                     break;
 				case 3:
 					stopWatch.Start();
-                    testDice.GetSixes(Dices.Length - 1);
+                    testDice.OneByOne();
 					stopWatch.Stop();
 					break;
 				case 4:
 					stopWatch.Start();
-                    testDice.SixesWithSave();
+                    testDice.RerollExceptSixes();
 					stopWatch.Stop();
 					break;
             }
         }
+
         public void PrintResults(int method, int times)
         {
             TimeSpan timespan = stopWatch.Elapsed;
@@ -158,7 +159,6 @@ namespace Dice
             Console.WriteLine("\n{0}. method\n" +
                               "Average time: {1} milliseconds", 
                               method, result / times);
-
         }
 
         public void StartSimulation(int dices, int times)
@@ -166,9 +166,8 @@ namespace Dice
             Dice testDice = SetupSimulation(dices);
             Console.WriteLine("----Dices: {0} - Number of tries: {1}----",
                               Dices.Length, times);
-            for (int i = 1; i <= 4; i++)
+            for (int method = 1; method <= 4; method++)
             {
-                int method = i;
                 for (int j = 0; j < times; j++)
                 {
                     RunSimulation(testDice, method);
@@ -185,7 +184,5 @@ namespace Dice
 
             myDice.StartSimulation(6, 1);
         }
-
-
     }
 }
