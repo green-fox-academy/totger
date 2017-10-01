@@ -1,7 +1,9 @@
 ﻿<Properties StartupConfiguration="{36043190-E375-447A-9AFC-37EEC3E96162}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Simulation.cs">
     <Files>
-      <File FileName="Program.cs" Line="24" Column="5" />
+      <File FileName="Program.cs" Line="11" Column="2" />
+      <File FileName="Dice.cs" Line="23" Column="48" />
+      <File FileName="Simulation.cs" Line="20" Column="33" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
@@ -9,6 +11,6 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.Dice PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.DiceSimulation PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

@@ -1,7 +1,7 @@
 
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dice", "Dice.csproj", "{36043190-E375-447A-9AFC-37EEC3E96162}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiceSimulation", "DiceSimulation.csproj", "{36043190-E375-447A-9AFC-37EEC3E96162}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
