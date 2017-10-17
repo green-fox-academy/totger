@@ -27,6 +27,8 @@ namespace GreenFox
 			Sponsor elon = new Sponsor("Elon Musk", 46, "male", "SpaceX");
             people.Add(elon);
 
+            Student johnTheClone = (Student)john.Clone();
+
 			student.SkipDays(3);
 
 			for (int i = 0; i < 5; i++)
