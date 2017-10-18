@@ -7,11 +7,21 @@ namespace SquareGt20
     {
         public static void Main(string[] args)
         {
-            int[] n = new[] { 3, 9, 2, 8, 6, 5 };
-            var output = GetSquare(n);
+            int[] n = { 3, 9, 2, 8, 6, 5 };
+
+            var output = GetSquareLambda(n);
+            var outputQuery = GetSquareQuery(n);
         }
 
-        private static object GetSquare(int[] n)
+        private static object GetSquareQuery(int[] n)
+        {
+            return
+                from number in n
+                where number * number > 20
+                select number;
+        }
+
+        private static object GetSquareLambda(int[] n)
         {
             return n.Where(x => x * x > 20);
         }
