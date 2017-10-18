@@ -17,13 +17,13 @@ namespace SquaredOfPos
         {
             return
                 from number in n
-                where number >= 0
+                where number > 0
                 select number * number;
         }
 
         private static object GetSquareLambda(int[] n)
         {
-            return n.Where(x => x >= 0).Select(x => x * x);
+            return n.Where(x => x > 0).Select(x => x * x);
         }
     }
 }
