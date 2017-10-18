@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvenNumbers", "EvenNumbers.csproj", "{77836CC4-9E8F-49E9-AD02-E7F854453021}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77836CC4-9E8F-49E9-AD02-E7F854453021}.Debug|x86.ActiveCfg = Debug|x86
+		{77836CC4-9E8F-49E9-AD02-E7F854453021}.Debug|x86.Build.0 = Debug|x86
+		{77836CC4-9E8F-49E9-AD02-E7F854453021}.Release|x86.ActiveCfg = Release|x86
+		{77836CC4-9E8F-49E9-AD02-E7F854453021}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
