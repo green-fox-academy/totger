@@ -8,7 +8,8 @@ namespace ParkingLot
         {
             CarParking parkolo = new CarParking();
             parkolo.FillLot();
-            Console.WriteLine(parkolo.parkingLot[28].Color);
+            parkolo.PrintNumberOfSameStuff();
+            parkolo.PrintMostCommonColorOfMostCommonType();
         }
     }
 }
