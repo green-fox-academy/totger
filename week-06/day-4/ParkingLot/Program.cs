@@ -9,7 +9,7 @@ namespace ParkingLot
             CarParking parkolo = new CarParking();
             parkolo.FillLot();
             parkolo.PrintNumberOfSameStuff();
-            parkolo.PrintMostCommonColorOfMostCommonType();
+            parkolo.PrintMostCommonCar();
         }
     }
 }

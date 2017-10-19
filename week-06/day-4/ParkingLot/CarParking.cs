@@ -35,15 +35,12 @@ namespace ParkingLot
                 Console.WriteLine(type);
             }
         }
-        public void PrintMostCommonColorOfMostCommonType()
+        public void PrintMostCommonCar()
         {
-            var mostCommon = parkingLot.GroupBy(x => x.Type)
+            var mostCommon = parkingLot.GroupBy(x => x.Code).ToList()
                                        .OrderByDescending(x => x.Count())
-                                       .Select(x => x).First()
-                                       .GroupBy(x => x.Color)
-                                       .OrderByDescending(x => x.Count())
-                                       .Select(x => x).First();
-            Console.WriteLine($"{mostCommon.First().Color}  {mostCommon.First().Type}");
+                                       .First().First();
+            Console.WriteLine($"{mostCommon.Color} {mostCommon.Type}");
         }
     }
 }
