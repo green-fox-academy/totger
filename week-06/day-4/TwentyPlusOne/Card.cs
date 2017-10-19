@@ -1,20 +1,39 @@
 ﻿using System;
 namespace TwentyPlusOne
 {
+    public enum Suit
+    {
+        clubs,
+        diamonds,
+        hearts,
+        spades
+    }
+
+    public enum Rank
+    {
+        two,
+        three,
+        four,
+        five,
+        six,
+        seven,
+        eight,
+        nine,
+        ten,
+        jack,
+        queen,
+        king,
+        ace
+    }
     public class Card
     {
-        public enum Suit
+        Suit suit;
+        Rank rank;
+
+        public Card(Suit suit, Rank rank)
         {
-            clubs,
-            diamonds,
-            hearts,
-            spades
-        }
-
-
-
-        public Card()
-        {
+            this.suit = suit;
+            this.rank = rank;
         }
 
     }
