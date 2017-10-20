@@ -15,6 +15,7 @@ namespace TwentyPlusOne
             {
                 CreateDeck();
             }
+            ShuffleDeck();
         }
 
         public void CreateDeck()

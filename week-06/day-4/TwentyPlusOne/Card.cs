@@ -3,27 +3,27 @@ namespace TwentyPlusOne
 {
     public enum Suit
     {
-        clubs,
-        diamonds,
-        hearts,
-        spades
+        Clubs,
+        Diamonds,
+        Hearts,
+        Spades
     }
 
     public enum Rank
     {
-        two = 2,
-        three,
-        four ,
-        five,
-        six,
-        seven,
-        eight,
-        nine,
-        ten,
-        jack,
-        queen,
-        king,
-        ace
+        Two = 2,
+        Three,
+        Four ,
+        Five,
+        Six,
+        Seven,
+        Eight,
+        Nine,
+        Ten,
+        Jack,
+        Queen,
+        King,
+        Ace
     }
     public class Card
     {
@@ -32,12 +32,12 @@ namespace TwentyPlusOne
 
         public Card(Suit suit, Rank rank)
         {
-            this.Suit = suit;
-            this.Rank = rank;
+            Suit = suit;
+            Rank = rank;
         }
         public override string ToString()
         {
-            return string.Format($"{Suit} {Rank}");
+            return string.Format($"{Rank} of {Suit}");
         }
     }
 }
