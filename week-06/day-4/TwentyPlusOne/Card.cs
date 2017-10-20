@@ -11,9 +11,9 @@ namespace TwentyPlusOne
 
     public enum Rank
     {
-        two,
+        two = 2,
         three,
-        four,
+        four ,
         five,
         six,
         seven,
@@ -27,14 +27,17 @@ namespace TwentyPlusOne
     }
     public class Card
     {
-        Suit suit;
-        Rank rank;
+        public Suit Suit;
+        public Rank Rank;
 
         public Card(Suit suit, Rank rank)
         {
-            this.suit = suit;
-            this.rank = rank;
+            this.Suit = suit;
+            this.Rank = rank;
         }
-
+        public override string ToString()
+        {
+            return string.Format($"{Suit} {Rank}");
+        }
     }
 }
