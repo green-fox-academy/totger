@@ -6,8 +6,9 @@ namespace TwentyPlusOne
     {
         public static void Main(string[] args)
         {
-            Deck deck = new Deck();
-            deck.ShuffleDeck();
+            Game game = new Game();
+            game.StartGame();
+            game.Deal();
         }
     }
 }

@@ -11,7 +11,7 @@ namespace TwentyPlusOne
 
     public enum Rank
     {
-        Two = 2,
+        Two,
         Three,
         Four ,
         Five,
@@ -25,6 +25,7 @@ namespace TwentyPlusOne
         King,
         Ace
     }
+
     public class Card
     {
         public Suit Suit;
@@ -39,5 +40,17 @@ namespace TwentyPlusOne
         {
             return string.Format($"{Rank} of {Suit}");
         }
+		
+        public int GetCardValue(Card card)
+		{
+			if ((int)card.Rank <= 8)
+				return (int)card.Rank + 2;
+			
+			if ((int)card.Rank >= 9 && (int)card.Rank <= 11)
+				return 10;
+			
+			return 11;
+		}
     }
+
 }

@@ -47,16 +47,5 @@ namespace TwentyPlusOne
             Cards.RemoveAt(0);
             return topCard;
         }
-
-        public int GetCardValue(Card card)
-        {
-            if ((int)card.Rank <= 10)
-                return (int)card.Rank;
-
-            if ((int)card.Rank >= 11 && (int)card.Rank <= 13)
-                return 10;
-
-            return 11;
-        }
     }
 }
