@@ -7,8 +7,8 @@ namespace ParkingLot
         public static void Main(string[] args)
         {
             CarParking parkolo = new CarParking();
-            parkolo.FillLot();
-            parkolo.PrintNumberOfSameStuff();
+            parkolo.FillLot(1000);
+            parkolo.PrintGroups();
             parkolo.PrintMostCommonCar();
         }
     }

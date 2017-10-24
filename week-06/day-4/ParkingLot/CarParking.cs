@@ -8,19 +8,16 @@ namespace ParkingLot
         Random random = new Random();
         public List<Car> parkingLot = new List<Car>();
 
-        public CarParking()
+        public void FillLot(int numberOfCars)
         {
-        }
-
-        public void FillLot()
-        {
-            for (int i = 0; i < 256; i++)
+            for (int i = 0; i < numberOfCars; i++)
             {
-                parkingLot.Add(new Car((Type)random.Next(0, 5), (Color)random.Next(0, 5)));
+                parkingLot.Add(new Car((Type)random.Next(0, Enum.GetNames(typeof(Type)).Length),
+                                       (Color)random.Next(0, Enum.GetNames(typeof(Color)).Length)));
             }
         }
 
-        public void PrintNumberOfSameStuff()
+        public void PrintGroups()
         {
 
             var sameType = parkingLot.GroupBy(x => x.Type).ToDictionary(x => x.Key, x => x.Count());
@@ -28,19 +25,21 @@ namespace ParkingLot
             {
                 Console.WriteLine(type);
             }
+            Console.WriteLine("___________________\n");
 
             var sameColor = parkingLot.GroupBy(x => x.Color).ToDictionary(x => x.Key, x => x.Count());
             foreach (var type in sameColor)
             {
                 Console.WriteLine(type);
             }
+            Console.WriteLine("___________________\n");
         }
         public void PrintMostCommonCar()
         {
             var mostCommon = parkingLot.GroupBy(x => x.Code).ToList()
                                        .OrderByDescending(x => x.Count())
                                        .First().First();
-            Console.WriteLine($"{mostCommon.Color} {mostCommon.Type}");
+            Console.WriteLine($"The most common car is: {mostCommon.Color} {mostCommon.Type}");
         }
     }
 }
