@@ -3,8 +3,8 @@ namespace WebApp.Models
 {
     public class Greeting
     {
-        public Greeting()
-        {
-        }
+        public long Id;
+        public string Content;
+        public static int Counter;
     }
 }

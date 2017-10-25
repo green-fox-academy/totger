@@ -1,5 +1,33 @@
-﻿@*
-    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
-*@
-@{
-}
+﻿@model List<BankOfSimba.Models.BankAccount>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Bank</title>
+</head>
+<body>
+    <div>
+        <table border="3" cellpadding="15" style="text-align:center; background-color:hotpink; color:ivory; border-color: thistle">
+            <tr style="font-weight: bold; background-color:lightskyblue">
+                <td>Index</td>
+				<td>Name</td>
+                <td>Balance</td>
+                <td>Animal Type</td>
+				<td>King?</td>
+                <td>Good?</td>
+            </tr>
+                 @{ 
+                     foreach (var bankacc in Model)
+                     {
+                         <tr style="@((bankacc.IsKing) ? "background:gold; font-weight:bold; color:silver" : string.Empty)">
+					         <td>@(Model.IndexOf(bankacc)+1)</td>
+                             <td>@bankacc.Name</td>
+                             <td>@bankacc.Balance.ToString("n2") Zebra</td>
+                             <td>@bankacc.AnimalType</td>
+					         <td>@((bankacc.IsKing) ? "KING" : string.Empty)</td>
+					         <td>@((bankacc.IsGood) ? "Good One" : "Bad Guy")
+                         </tr>
+                     }
+                 }   
+        </table>
+    </div>
+</body>
+</html>
