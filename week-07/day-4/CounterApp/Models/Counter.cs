@@ -3,8 +3,11 @@ namespace CounterApp.Models
 {
     public class Counter
     {
-        public Counter()
+        public int Number { get; set; } = 1;
+
+        public void Increase()
         {
+            Number++;
         }
     }
 }

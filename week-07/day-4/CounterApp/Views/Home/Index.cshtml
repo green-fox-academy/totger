@@ -1,3 +1,16 @@
-﻿@page
-@{
-}
+﻿@model CounterApp.Models.Counter
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+	<title>Counter</title>
+  </head>
+  <body>
+	<p style="align:center; font-size:30px">@Model.Number</p>
+
+	@using (Html.BeginForm("action", "home"))
+    {
+        <p><input type="submit" value="Submit" /></p>
+    }
+		
+  </body>
+</html>
