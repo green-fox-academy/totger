@@ -21,17 +21,13 @@ namespace ParkingLot
         {
 
             var sameType = parkingLot.GroupBy(x => x.Type).ToDictionary(x => x.Key, x => x.Count());
-            foreach (var type in sameType)
-            {
-                Console.WriteLine(type);
-            }
+
+            sameType.ToList().ForEach(n => Console.WriteLine(n));
             Console.WriteLine("___________________\n");
 
             var sameColor = parkingLot.GroupBy(x => x.Color).ToDictionary(x => x.Key, x => x.Count());
-            foreach (var type in sameColor)
-            {
-                Console.WriteLine(type);
-            }
+
+            sameColor.ToList().ForEach(n => Console.WriteLine(n));
             Console.WriteLine("___________________\n");
         }
         public void PrintMostCommonCar()
