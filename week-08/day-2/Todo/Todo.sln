@@ -1,7 +1,7 @@
 
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Todo", "Todo.csproj", "{F74D1E2A-6951-4C91-B136-1CEDBBB23308}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TodoApp", "TodoApp.csproj", "{F74D1E2A-6951-4C91-B136-1CEDBBB23308}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

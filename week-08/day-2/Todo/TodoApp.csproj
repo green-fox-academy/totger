@@ -10,10 +10,16 @@
     <Folder Include="Views\" />
     <Folder Include="Repositories\" />
     <Folder Include="Models\" />
+    <Folder Include="Views\Todo\" />
+    <Folder Include="Entities\" />
   </ItemGroup>
 
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.All" Version="2.0.0" />
   </ItemGroup>
+  <ItemGroup>
+  <DotNetCliToolReference Include="Microsoft.EntityFrameworkCore.Tools" Version="2.0.0" />
+  <DotNetCliToolReference Include="Microsoft.EntityFrameworkCore.Tools.DotNet" Version="2.0.0" />
+</ItemGroup>
 
 </Project>
