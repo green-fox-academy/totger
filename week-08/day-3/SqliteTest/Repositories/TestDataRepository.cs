@@ -6,30 +6,29 @@ namespace SqliteTest.Repositories
 {
     public class TestDataRepository
     {
-
-        TestDataContext TestDataContext;
+        TestDataContext testDataContext;
 
         public TestDataRepository(TestDataContext testDataContext)
         {
-            TestDataContext = testDataContext;
+            this.testDataContext = testDataContext;
         }
 
         public void AddData()
         {
-            var data = new TestData()
+            var testItem = new TestData
             {
                 Name = "testName",
                 Number = 42,
-                IsTrue = true,
+                IsTrue = true
             };
 
-            TestDataContext.TestDatas.Add(data);
-            TestDataContext.SaveChanges();
+            testDataContext.TestDatas.Add(testItem);
+            testDataContext.SaveChanges();
         }
 
-        public int ReturnCount()
+        public int GetCount()
         {
-            return TestDataContext.TestDatas.ToList().Count();
+            return testDataContext.TestDatas.ToList().Count;
         }
     }
 }

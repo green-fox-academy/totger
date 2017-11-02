@@ -19,7 +19,7 @@ namespace SqliteTest.Controllers
         // GET: /<controller>/
         public IActionResult Index()
         {
-            return View(TestDataRepository.ReturnCount());
+            return View(TestDataRepository.GetCount());
         }
 
         [Route("add")]
