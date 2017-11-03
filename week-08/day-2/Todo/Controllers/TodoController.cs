@@ -1,7 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Linq;
-using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using TodoApp.Repositories;
 
@@ -20,7 +18,6 @@ namespace TodoApp.Controllers
         }
 
         [Route("")]
-        // GET: /<controller>
         public IActionResult Actual()
         {
             if (TodoRepository.ListTodos().Count() == 0)

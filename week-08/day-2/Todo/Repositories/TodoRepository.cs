@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Linq;
 using TodoApp.Entities;
 using TodoApp.Models;
@@ -35,7 +34,7 @@ namespace TodoApp.Repositories
             todoContext.Current.Add(newTodo);
             todoContext.SaveChanges();
         }
-
+         
         internal void DeleteTodo(int id)
         {
             Todo archiveTodo = todoContext.Current.FirstOrDefault(x => x.Id == id);
