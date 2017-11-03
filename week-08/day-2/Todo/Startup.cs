@@ -25,7 +25,7 @@ namespace TodoApp
                 //.AddJsonFile("appsettings.json");
 
             services.AddMvc();
-            services.AddDbContext<TodoContext>(options => options.UseSqlite("Data Source=todolist.db"));
+            services.AddDbContext<TodoContext>(options => options.UseSqlite("Data Source=todos.db"));
             services.AddScoped<TodoRepository>();
             
         }
@@ -40,6 +40,7 @@ namespace TodoApp
             }
 
             app.UseMvc();
+            app.UseStaticFiles();
 
             app.Run(async (context) =>
             {

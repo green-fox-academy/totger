@@ -4,6 +4,7 @@ using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
 using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage;
+using Microsoft.EntityFrameworkCore.Storage.Internal;
 using System;
 using TodoApp.Entities;
 
@@ -23,15 +24,19 @@ namespace TodoApp.Migrations
                     b.Property<long>("Id")
                         .ValueGeneratedOnAdd();
 
+                    b.Property<int>("DaysRemaining");
+
+                    b.Property<DateTime>("DueDate");
+
                     b.Property<bool>("IsDone");
 
-                    b.Property<bool>("IsUrgent");
+                    b.Property<bool>("IsImportant");
 
                     b.Property<string>("Title");
 
                     b.HasKey("Id");
 
-                    b.ToTable("Todos");
+                    b.ToTable("Current");
                 });
 #pragma warning restore 612, 618
         }

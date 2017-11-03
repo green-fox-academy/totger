@@ -12,6 +12,7 @@
     <Folder Include="Models\" />
     <Folder Include="Views\Todo\" />
     <Folder Include="Entities\" />
+    <Folder Include="wwwroot\style\" />
   </ItemGroup>
 
   <ItemGroup>

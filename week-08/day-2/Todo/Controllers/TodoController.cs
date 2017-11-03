@@ -9,7 +9,7 @@ using TodoApp.Repositories;
 
 namespace TodoApp.Controllers
 {
-    [Route("todo")]
+    [Route("")]
     public class TodoController : Controller
     {
         public TodoRepository TodoRepository { get; set; }
@@ -18,14 +18,47 @@ namespace TodoApp.Controllers
         {
             TodoRepository = todoRepository;
         }
+
         [Route("")]
-        [Route("list")]
-        // GET: /<controller>/
-        public IActionResult List()
+        // GET: /<controller>
+        public IActionResult Actual()
         {
-            TodoRepository.AddTodo();
-            Console.WriteLine(TodoRepository.GetListCount());
+            if (TodoRepository.ListTodos().Count() == 0)
+            {
+                return RedirectToAction("add");
+            }
+			return View(TodoRepository.ListTodos());
+        }
+
+        [HttpGet]
+        [Route("add")]
+        public IActionResult Add()
+        {
             return View();
+        }
+
+        [HttpPost]
+        [Route("add")]
+        public IActionResult Add(string Title, int isImportant, DateTime dueDate)
+        {
+            TodoRepository.AddTodo(Title, isImportant, dueDate);
+            return RedirectToAction("Actual");
+        }
+
+		[HttpPost]
+        [Route("/{id}/delete")]
+        public IActionResult Delete(int id)
+        {
+            TodoRepository.DeleteTodo(id);
+            return RedirectToAction("Actual");
+        }
+
+        [HttpPost]
+        [Route("/{id}/done")]
+        public IActionResult Done(int id)
+        {
+            TodoRepository.Done(id);
+            return RedirectToAction("Actual");
         }
     }
 }
