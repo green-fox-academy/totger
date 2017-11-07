@@ -11,6 +11,8 @@ namespace APIworkshop.Controllers
     public class HomeController : Controller
     {
         // GET: /<controller>/
+        [HttpGet]
+        [Route("")]
         public IActionResult Index()
         {
             return View();
