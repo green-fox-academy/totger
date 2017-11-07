@@ -28,6 +28,7 @@ namespace APIworkshop
 
             app.UseMvc();
             app.UseStaticFiles();
+            app.UseDefaultFiles();
 
             app.Run(async (context) =>
             {
