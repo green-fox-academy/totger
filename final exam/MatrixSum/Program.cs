@@ -15,11 +15,25 @@ namespace MatrixSum
                 new List<int>() { 1, 1, 1}
             };
             Console.WriteLine(SumLists(matrix));
+            Console.WriteLine(SumListsLongWay(matrix));
         }
 
         public static int SumLists(List<List<int>> matrix)
         {
             return matrix.Select(x => x.Sum()).Sum();
+        }
+
+        public static int SumListsLongWay(List<List<int>> matrix)
+        {
+            int result = 0;
+            foreach (var list in matrix)
+            {
+                foreach (var number in list)
+                {
+                    result += number;
+                }
+            }
+            return result;
         }
     }
 }
